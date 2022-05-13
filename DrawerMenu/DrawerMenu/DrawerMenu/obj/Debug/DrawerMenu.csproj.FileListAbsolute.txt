@@ -1,0 +1,688 @@
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.dll.config
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.dll
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.pdb
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\BCrypt.Net.dll
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Newtonsoft.Json.dll
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Rg.Plugins.Popup.dll
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.dll
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Extensions.dll
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Primitives.dll
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Core.dll
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Platform.dll
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.iOS.dll
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Rg.Plugins.Popup.Platform.dll
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.dll
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Core.dll
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Xml.dll
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Mono.Dynamic.Interpreter.dll
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Newtonsoft.Json.xml
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Rg.Plugins.Popup.pdb
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.xml
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Extensions.xml
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Primitives.xml
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Core.pdb
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Core.xml
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Platform.pdb
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.iOS.xml
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.csproj.App.config
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MainPage.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MenuPage.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.LoginPopupPage.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.Home.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.ForGotPasswordpopUp.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.SignUpPopupPage.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.SignUpRequester.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.SignUpChampion.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.AddPrayerRequestPopupPage.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.Profile.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.LoadingPopupPage.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.LoginSuccessPopupPage.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.LoginFailedPopupPage.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.SignUpRequesterFailedPopupPage.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.SignUpChampionFailedPopupPage.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.DeletePrayerAdminpopUp.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.UpdatePrayerRequestPopupPage.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MenuPageMemberRequest.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MemberPrayerSingleRequest.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.DeleteSinglePrayerAdminpopUp.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.UpdatePrayerCommentPopupPage.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.DeleteCommentAdminpopUp.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.AddPrayerCommentPopupPage.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.SearchUsersAdmin.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.UpdateProfileFailedPopupPage.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.logout.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.testpagered.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.LiveChat.xaml.g.cs
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.dll
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.pdb
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Mono.Android.dll
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Mono.Android.xml
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.dll.mdb
+F:\Gurinder\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.dll.mdb
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.dll.config
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.dll
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.pdb
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\BCrypt.Net.dll
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Mono.Android.dll
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Newtonsoft.Json.dll
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.Abstractions.dll
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.dll
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Rg.Plugins.Popup.dll
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.dll
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Extensions.dll
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Primitives.dll
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Core.dll
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Platform.dll
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.iOS.dll
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.dll
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Xml.dll
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Core.dll
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Rg.Plugins.Popup.Platform.dll
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Mono.Dynamic.Interpreter.dll
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Mono.Android.xml
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Newtonsoft.Json.xml
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.pdb
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.xml
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.Abstractions.pdb
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.Abstractions.xml
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Rg.Plugins.Popup.pdb
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.xml
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Extensions.xml
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Primitives.xml
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Core.pdb
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Core.xml
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Platform.pdb
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.iOS.xml
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Rg.Plugins.Popup.Platform.pdb
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.csproj.App.config
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MainPage.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MenuPage.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.LoginPopupPage.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.ForGotPasswordpopUp.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.SignUpPopupPage.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.SignUpRequester.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.SignUpChampion.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.AddPrayerRequestPopupPage.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.LoadingPopupPage.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.LoginSuccessPopupPage.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.LoginFailedPopupPage.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.SignUpRequesterFailedPopupPage.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.SignUpChampionFailedPopupPage.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.UpdatePrayerRequestPopupPage.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MenuPageMemberRequest.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MemberPrayerSingleRequest.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.DeleteSinglePrayerAdminpopUp.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.UpdatePrayerCommentPopupPage.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.AddPrayerCommentPopupPage.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.SearchUsersAdmin.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.UpdateProfileFailedPopupPage.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.logout.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.testpagered.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.LiveChat.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.PushNotificationsAdmin.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.DeleteNotificationtimeAdminpopUp.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.HomeNew.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.PrayerRemainder.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.AddPrayerReminder.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.TermsandConditions.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MenuPageNotifications.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MemberProfile.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.Disclaimer.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.DisclaimerPopupPage.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MemberPrayerRequests.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MyNotifications.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.TestNotification.xaml.g.cs
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.dll
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.pdb
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.csprojResolveAssemblyReference.cache
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.dll.mdb
+F:\TPZApp\DrawerMenu_22May_2017\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.dll.mdb
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.dll.config
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.dll
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.pdb
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\BCrypt.Net.dll
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Mono.Android.dll
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Newtonsoft.Json.dll
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.Abstractions.dll
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.dll
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Rg.Plugins.Popup.dll
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.dll
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Extensions.dll
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Primitives.dll
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Core.dll
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Platform.dll
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.iOS.dll
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.dll
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Xml.dll
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Core.dll
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Rg.Plugins.Popup.Platform.dll
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Mono.Dynamic.Interpreter.dll
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Mono.Android.xml
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Newtonsoft.Json.xml
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.pdb
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.xml
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.Abstractions.pdb
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.Abstractions.xml
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Rg.Plugins.Popup.pdb
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.xml
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Extensions.xml
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Primitives.xml
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Core.pdb
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Core.xml
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Platform.pdb
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.iOS.xml
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Rg.Plugins.Popup.Platform.pdb
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.csproj.App.config
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.csprojResolveAssemblyReference.cache
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MainPage.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MenuPage.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.LoginPopupPage.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.ForGotPasswordpopUp.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.SignUpPopupPage.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.SignUpRequester.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.SignUpChampion.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.AddPrayerRequestPopupPage.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.LoadingPopupPage.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.LoginSuccessPopupPage.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.LoginFailedPopupPage.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.SignUpRequesterFailedPopupPage.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.SignUpChampionFailedPopupPage.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.UpdatePrayerRequestPopupPage.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MenuPageMemberRequest.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MemberPrayerSingleRequest.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.DeleteSinglePrayerAdminpopUp.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.UpdatePrayerCommentPopupPage.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.AddPrayerCommentPopupPage.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.SearchUsersAdmin.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.UpdateProfileFailedPopupPage.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.logout.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.testpagered.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.LiveChat.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.PushNotificationsAdmin.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.DeleteNotificationtimeAdminpopUp.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.HomeNew.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.PrayerRemainder.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.AddPrayerReminder.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.TermsandConditions.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MenuPageNotifications.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MemberProfile.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.Disclaimer.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.DisclaimerPopupPage.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MemberPrayerRequests.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MyNotifications.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.TestNotification.xaml.g.cs
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.dll
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.pdb
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.dll.mdb
+F:\TPZApp\TPZPrayerUpdateIos\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.dll.mdb
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.dll.config
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.dll
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.pdb
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\BCrypt.Net.dll
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\GCM.Client.dll
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Mono.Android.dll
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Newtonsoft.Json.dll
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PCLCrypto.dll
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.Abstractions.dll
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.dll
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Rg.Plugins.Popup.dll
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.dll
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Extensions.dll
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Primitives.dll
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Validation.dll
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Core.dll
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Platform.dll
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.iOS.dll
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.dll
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Core.dll
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Xml.dll
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Rg.Plugins.Popup.Platform.dll
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Mono.Security.dll
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Mono.Android.pdb
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Mono.Android.xml
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Newtonsoft.Json.xml
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PCLCrypto.xml
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.pdb
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.xml
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.Abstractions.pdb
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.Abstractions.xml
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Rg.Plugins.Popup.pdb
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.xml
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Extensions.xml
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Primitives.xml
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Validation.xml
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Core.pdb
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Core.xml
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Platform.pdb
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.iOS.xml
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.pdb
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Core.pdb
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Xml.pdb
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Rg.Plugins.Popup.Platform.pdb
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Mono.Security.pdb
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.csproj.App.config
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.csprojResolveAssemblyReference.cache
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MainPage.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MenuPage.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.LoginPopupPage.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.ForGotPasswordpopUp.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.SignUpPopupPage.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.SignUpRequester.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.SignUpChampion.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.AddPrayerRequestPopupPage.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.LoadingPopupPage.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.LoginSuccessPopupPage.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.LoginFailedPopupPage.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.SignUpRequesterFailedPopupPage.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.SignUpChampionFailedPopupPage.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.UpdatePrayerRequestPopupPage.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MenuPageMemberRequest.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MemberPrayerSingleRequest.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.DeleteSinglePrayerAdminpopUp.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.UpdatePrayerCommentPopupPage.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.AddPrayerCommentPopupPage.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.SearchUsersAdmin.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.UpdateProfileFailedPopupPage.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.logout.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.testpagered.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.LiveChat.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.PushNotificationsAdmin.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.DeleteNotificationtimeAdminpopUp.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.HomeNew.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.PrayerRemainder.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.AddPrayerReminder.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.TermsandConditions.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MenuPageNotifications.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MemberProfile.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.Disclaimer.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.DisclaimerPopupPage.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MemberPrayerRequests.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.MyNotifications.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.TestNotification.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.ApproveSinglePrayerAdminpopUp.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.ContactUsPopupPage.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.NationalSuicidePrevention.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.Pages.BlockWords.xaml.g.cs
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.dll
+F:\TPZApp\TPZMobileApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.csproj.App.config
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\MainPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\MenuPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\LoginPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\ForGotPasswordpopUp.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\SignUpPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\SignUpRequester.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\SignUpChampion.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\AddPrayerRequestPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\LoadingPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\LoginSuccessPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\LoginFailedPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\SignUpRequesterFailedPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\SignUpChampionFailedPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\UpdatePrayerRequestPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\MenuPageMemberRequest.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\MemberPrayerSingleRequest.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\DeleteSinglePrayerAdminpopUp.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\UpdatePrayerCommentPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\AddPrayerCommentPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\SearchUsersAdmin.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\UpdateProfileFailedPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\logout.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\testpagered.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\LiveChat.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\PushNotificationsAdmin.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\DeleteNotificationtimeAdminpopUp.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\HomeNew.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\PrayerRemainder.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\AddPrayerReminder.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\TermsandConditions.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\MenuPageNotifications.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\MemberProfile.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\Disclaimer.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\DisclaimerPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\MemberPrayerRequests.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\MyNotifications.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\TestNotification.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\ApproveSinglePrayerAdminpopUp.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\ContactUsPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\NationalSuicidePrevention.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\BlockWords.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\ViewMore.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\SignUpChampionInfo.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\SignUpRequesterInfo.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.csproj.CoreCompileInputs.cache
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.dll.config
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\BCrypt.Net.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Mono.Android.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Newtonsoft.Json.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PCLCrypto.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.Abstractions.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Rg.Plugins.Popup.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Extensions.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Primitives.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Validation.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Core.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.iOS.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Rg.Plugins.Popup.Platform.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Rg.Plugins.Popup.IOS.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Platform.iOS.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Newtonsoft.Json.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PCLCrypto.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.Abstractions.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.Abstractions.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Extensions.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Primitives.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Validation.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Core.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.iOS.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Platform.iOS.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\XamlC.stamp
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.csproj.CopyComplete
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\GetHelp.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.dll.config
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\BCrypt.Net.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\GCM.Client.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Newtonsoft.Json.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PCLCrypto.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.Abstractions.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Rg.Plugins.Popup.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Extensions.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Primitives.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Validation.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Core.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.iOS.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Rg.Plugins.Popup.Platform.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Rg.Plugins.Popup.IOS.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Platform.iOS.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Newtonsoft.Json.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PCLCrypto.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.Abstractions.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.Abstractions.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Extensions.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Primitives.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Validation.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Core.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.iOS.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Platform.iOS.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.csproj.App.config
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.csprojAssemblyReference.cache
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\MainPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\MenuPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\LoginPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\ForGotPasswordpopUp.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\SignUpPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\SignUpRequester.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\SignUpChampion.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\AddPrayerRequestPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\LoadingPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\LoginSuccessPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\LoginFailedPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\SignUpRequesterFailedPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\SignUpChampionFailedPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\UpdatePrayerRequestPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\MenuPageMemberRequest.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\MemberPrayerSingleRequest.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\DeleteSinglePrayerAdminpopUp.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\UpdatePrayerCommentPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\AddPrayerCommentPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\SearchUsersAdmin.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\UpdateProfileFailedPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\logout.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\testpagered.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\LiveChat.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\PushNotificationsAdmin.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\DeleteNotificationtimeAdminpopUp.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\HomeNew.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\PrayerRemainder.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\AddPrayerReminder.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\TermsandConditions.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\MenuPageNotifications.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\MemberProfile.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\Disclaimer.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\DisclaimerPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\MemberPrayerRequests.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\MyNotifications.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\TestNotification.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\ApproveSinglePrayerAdminpopUp.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\ContactUsPopupPage.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\NationalSuicidePrevention.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\BlockWords.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\ViewMore.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\SignUpChampionInfo.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\SignUpRequesterInfo.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\GetHelp.xaml.g.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.csproj.CoreCompileInputs.cache
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\XamlC.stamp
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.csproj.CopyComplete
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.csproj.App.config
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\MainPage.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\MenuPage.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\LoginPopupPage.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\ForGotPasswordpopUp.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\SignUpPopupPage.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\SignUpRequester.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\SignUpChampion.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\AddPrayerRequestPopupPage.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\LoadingPopupPage.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\LoginSuccessPopupPage.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\LoginFailedPopupPage.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\SignUpRequesterFailedPopupPage.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\SignUpChampionFailedPopupPage.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\UpdatePrayerRequestPopupPage.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\MenuPageMemberRequest.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\MemberPrayerSingleRequest.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\DeleteSinglePrayerAdminpopUp.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\UpdatePrayerCommentPopupPage.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\AddPrayerCommentPopupPage.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\SearchUsersAdmin.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\UpdateProfileFailedPopupPage.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\logout.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\testpagered.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\LiveChat.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\PushNotificationsAdmin.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\DeleteNotificationtimeAdminpopUp.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\HomeNew.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\PrayerRemainder.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\AddPrayerReminder.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\TermsandConditions.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\MenuPageNotifications.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\MemberProfile.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\Disclaimer.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\DisclaimerPopupPage.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\MemberPrayerRequests.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\MyNotifications.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\TestNotification.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\ApproveSinglePrayerAdminpopUp.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\ContactUsPopupPage.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\NationalSuicidePrevention.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\BlockWords.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\ViewMore.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\SignUpChampionInfo.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\SignUpRequesterInfo.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\Pages\GetHelp.xaml.g.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.dll.config
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\BCrypt.Net.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\GCM.Client.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PCLCrypto.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.Abstractions.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Rg.Plugins.Popup.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Validation.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.iOS.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Rg.Plugins.Popup.Platform.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Rg.Plugins.Popup.IOS.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PCLCrypto.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.Abstractions.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\PushNotification.Plugin.Abstractions.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Validation.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.iOS.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\XamlC.stamp
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.csproj.CopyComplete
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu\obj\Debug\DrawerMenu.csprojAssemblyReference.cache

@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pages:PopupPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+             xmlns:animations="clr-namespace:Rg.Plugins.Popup.Animations;assembly=Rg.Plugins.Popup"
+             x:Class="DrawerMenu.Pages.DisclaimerPopupPage">
+   <pages:PopupPage.Resources>
+    <ResourceDictionary>
+      <Style TargetType="Label">
+        <!--<Setter Property="TextColor" Value="#50b0b3"/>-->
+        <Setter Property="FontSize" Value="15"/>
+        <Setter Property="FontFamily" Value="Arial"/>
+        <Setter Property="WidthRequest" />
+
+        <!--<Setter Property="HorizontalOptions" Value="Center"/>
+        <Setter Property="VerticalOptions" Value="Center"/>-->
+      </Style>
+      <Style TargetType="Entry">
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="FontFamily" Value="Arial"/>
+        <Setter Property="WidthRequest" />
+        <Setter Property="HorizontalOptions" Value="Fill" />
+        <Setter Property="VerticalOptions" Value="CenterAndExpand" />
+        <Setter Property="BackgroundColor" Value="#eaeaea" />
+        <Setter Property="TextColor" Value="#8899a6" />
+      </Style>
+    </ResourceDictionary>
+  </pages:PopupPage.Resources>
+  <pages:PopupPage.Animation>
+    <animations:ScaleAnimation
+      PositionIn="Bottom"
+      PositionOut="Center"
+      ScaleIn="1"
+      ScaleOut="0.7"
+      DurationIn="700"
+      EasingIn="BounceOut"/>
+  </pages:PopupPage.Animation>
+  <ScrollView
+    HorizontalOptions="Center"
+    VerticalOptions="Center">
+    <AbsoluteLayout>
+      <Frame
+        x:Name="FrameContainer"
+        Margin="15"
+        HorizontalOptions="Center"
+        BackgroundColor="White">
+        <StackLayout   HorizontalOptions="FillAndExpand" HeightRequest="280" Padding="0,0,0,0" >
+          <StackLayout IsClippedToBounds="True" Padding="3,3" Spacing="2">
+            <StackLayout HorizontalOptions="FillAndExpand" Padding="0,10,0,10"  >
+              <Label  x:Name="lblDisclaimerTitle"  Text="ThePrayerZone Disclaimer:" FontFamily="Arial"  FontSize="15"  FontAttributes="Bold" TextColor="#8899a6" VerticalOptions="Center"
+                 HorizontalOptions="Center" />
+            </StackLayout>
+            <Label  x:Name="lblDisclaimerDescription"  FontFamily="Arial" Text="ThePrayerZone is an open forum Christian prayer app which seeks to provide help to others through prayer. The views, opinions or prayers posted on this forum belong solely to the individuals posting the prayers or prayer requests, and do not necessarily represent the views or opinions of the owner. The owner will not be liable for any losses, injuries, or damages from the display or use of this information."  TextColor="#000000" FontSize="12"
+                 LineBreakMode="WordWrap"></Label>
+            <!--<Label  x:Name="lblDisclaimerDescription111"  FontFamily="Arial" Text=""  TextColor="#000000" FontSize="12"
+                LineBreakMode="WordWrap"></Label>
+            <Label  x:Name="lblDisclaimerDescription12323"  FontFamily="Arial" Text=""  TextColor="#000000" FontSize="12"
+                LineBreakMode="WordWrap"></Label>-->
+            <Label  x:Name="lblDisclaimerEmailto"  FontFamily="Arial" TextColor="#000000" FontSize="12">
+              <Label.FormattedText>
+                <FormattedString>
+                  <Span Text="If you would like to report any content as offensive, please e-mail "  />
+                  <Span Text="theprayerzone@thehopeline.com " FontSize="12" ForegroundColor="#54B0B2" />
+                  <Span Text=". Thank you!"  />
+                </FormattedString>
+              </Label.FormattedText>
+              <Label.GestureRecognizers>
+                <TapGestureRecognizer
+                      Tapped="OnTapGestureRecognizerTapped"  />
+              </Label.GestureRecognizers>
+            </Label>
+
+          
+       
+
+          <!--<Editor x:Name="PrayerRequestEntry"  VerticalOptions="FillAndExpand" HeightRequest="200" FontSize="14"  TextColor="#8899a6" BackgroundColor="#eaeaea" >
+          </Editor>-->
+
+          <!--<StackLayout HorizontalOptions="FillAndExpand" Padding="0,0,0,20" >
+            <Label >
+              <Label.FormattedText>
+                <FormattedString>
+                  <Span ForegroundColor="#50B9CB" FontAttributes="Bold" FontSize="20" Text="Emergency?" ></Span>
+                  <Span  FontSize="15" FontAttributes="Bold" Text=" Dial 9-1-1 now." ForegroundColor="#082E3E"></Span>
+                </FormattedString>
+              </Label.FormattedText>
+            </Label>
+            <Label >
+              <Label.FormattedText>
+                <FormattedString>
+                  <Span ForegroundColor="#082E3E"  FontSize="14" Text="ThePrayerZone is not monitored 24/7" ></Span>
+                </FormattedString>
+              </Label.FormattedText>
+            </Label>
+
+
+          </StackLayout>-->    
+        
+      
+      
+          </StackLayout>
+
+        </StackLayout>
+      </Frame>
+      <ContentView
+          AbsoluteLayout.LayoutFlags="PositionProportional"
+          AbsoluteLayout.LayoutBounds="1, 0, -1, -1">
+        <ContentView.GestureRecognizers>
+          <TapGestureRecognizer Tapped="OnCloseButtonTapped"/>
+        </ContentView.GestureRecognizers>
+        <Image
+          x:Name="CloseImage"
+          HeightRequest="30"
+          WidthRequest="30">
+          <Image.Source>
+            <OnPlatform
+              x:TypeArguments="ImageSource"
+              Android="close_circle_button.png"
+              iOS="close_circle_button.png"
+              WinPhone="Assets/close_circle_button.png"/>
+          </Image.Source>
+        </Image>
+      </ContentView>
+    </AbsoluteLayout>
+  </ScrollView>
+</pages:PopupPage>

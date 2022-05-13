@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DrawerMenu.Pages.PrayerRemainder" Title="Prayer Reminders">
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <Style x:Key="orangeButton" TargetType="Button">
+        <Setter Property="BackgroundColor" Value="#ffffff"/>
+        <Setter Property="TextColor" Value="White" />
+        <Setter Property="BorderRadius" Value="0"/>
+        <Setter Property="FontSize" Value="12" />
+      </Style>
+      <Style x:Key="redButton" TargetType="Button" >
+        <Setter Property="BackgroundColor" Value="#ffffff"/>
+        <Setter Property="TextColor" Value="White" />
+        <Setter Property="BorderRadius" Value="0"/>
+        <Setter Property="FontSize" Value="10" />
+      </Style>
+      <Style TargetType="Label">
+        <!--<Setter Property="TextColor" Value="#50b0b3"/>-->
+        <Setter Property="FontSize" Value="16"/>
+        <Setter Property="FontFamily" Value="Arial"/>
+        <Setter Property="WidthRequest" Value="240"/>
+
+        <!--<Setter Property="HorizontalOptions" Value="Center"/>
+        <Setter Property="VerticalOptions" Value="Center"/>-->
+      </Style>
+      <Style TargetType="Entry">
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="FontFamily" Value="Arial"/>
+        <Setter Property="WidthRequest" Value="240"/>
+        <Setter Property="HorizontalOptions" Value="Fill" />
+        <Setter Property="VerticalOptions" Value="CenterAndExpand" />
+        <Setter Property="BackgroundColor" Value="#eaeaea" />
+        <Setter Property="TextColor" Value="#8899a6" />
+      </Style>
+      <Style TargetType="Picker">
+
+
+        <Setter Property="WidthRequest" Value="240"/>
+        <Setter Property="HorizontalOptions" Value="Fill" />
+        <Setter Property="VerticalOptions" Value="CenterAndExpand" />
+        <Setter Property="BackgroundColor" Value="#eaeaea" />
+        <Setter Property="TextColor" Value="#8899a6" />
+
+      </Style>
+    </ResourceDictionary>
+  </ContentPage.Resources>
+  <!--<ContentPage.ToolbarItems>
+
+    <ToolbarItem Text="Back" Clicked="AddItem_Clicked" />
+
+    <ToolbarItem Text="Add New" Clicked="AddItem_Clicked" />
+
+  </ContentPage.ToolbarItems>-->
+
+
+
+
+
+  <StackLayout   HorizontalOptions="FillAndExpand"  Padding="0,0,0,0" >
+
+    <StackLayout  x:Name="stackHeading" Orientation="Horizontal"  Padding="0,0,0,0" >
+      <Button   x:Name="btnBackProfile"  HorizontalOptions="FillAndExpand"  FontSize="12" TextColor="#000000"   Clicked="BackItem_Clicked"   BackgroundColor="#ffffff"    Text="Back"     >
+        <Button.HeightRequest>
+          <OnPlatform x:TypeArguments="x:Double" Android="40" iOS="20" WinPhone="30"/>
+        </Button.HeightRequest>
+      </Button>
+      <Image Source="logoios.png" HorizontalOptions="FillAndExpand" />
+      <Button   x:Name="btnAddNewReminder"  HorizontalOptions="FillAndExpand" FontSize="12" TextColor="#000000"   Clicked="AddItem_Clicked"  BackgroundColor="#ffffff"    Text="Add New"     >
+        <Button.HeightRequest>
+                    <OnPlatform x:TypeArguments="x:Double" Android="40" iOS="20" WinPhone="30"/>
+        </Button.HeightRequest>
+      </Button>
+    </StackLayout>
+
+    <StackLayout Orientation="Horizontal" Padding="25,5,5,25" >
+      <Label x:Name="lblNotificationUser"  Text=""  TextColor="#000000" FontSize="12" FontAttributes="Bold"
+            />
+    </StackLayout>
+    <ListView x:Name="NotificationTimeView" HasUnevenRows="True" Margin="5"  ItemsSource="{Binding Items}"
+           
+        CachingStrategy="RecycleElement"
+        BackgroundColor="White">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell >
+            <ViewCell.View>
+              <StackLayout Orientation="Vertical" Padding="3,3,3,3" Margin="5" VerticalOptions="FillAndExpand"   HorizontalOptions="FillAndExpand">
+                <StackLayout  Orientation="Horizontal" >
+                  <Label Text="{Binding NotificationTime}"  HorizontalOptions="StartAndExpand" VerticalOptions="Start" TextColor="#50b0b3" FontSize="12" XAlign="Start" LineBreakMode="TailTruncation"></Label>
+                  <Label Text="{Binding DayName}"  HorizontalOptions="StartAndExpand" VerticalOptions="Start" TextColor="#50b0b3" FontSize="12" XAlign="Start" LineBreakMode="TailTruncation"></Label>
+
+
+                  <Button HorizontalOptions="FillAndExpand" Image="IconEdit.png" VerticalOptions="Center" FontSize="12" x:Name="btnEdit" Clicked="OnEditTimeClicked"  CommandParameter="{Binding TimeId}"   WidthRequest = "80"    Style="{StaticResource redButton}" >
+                    <Button.HeightRequest>
+                      <OnPlatform x:TypeArguments="x:Double" Android="35" iOS="25" WinPhone="30"/>
+                    </Button.HeightRequest>
+                  </Button>
+                  <Button HorizontalOptions="FillAndExpand" Image="IconDelete.png" FontSize="12" VerticalOptions="Center" x:Name="btnDeleteRequest" Clicked="OnDeleteTimeClicked"  CommandParameter="{Binding TimeId}"   WidthRequest = "80"     Style="{StaticResource redButton}" >
+                    <Button.HeightRequest>
+                      <OnPlatform x:TypeArguments="x:Double" Android="35" iOS="25" WinPhone="30"/>
+                    </Button.HeightRequest>
+                  </Button>
+
+                </StackLayout>
+
+              </StackLayout>
+
+            </ViewCell.View>
+          </ViewCell>
+
+        </DataTemplate>
+
+      </ListView.ItemTemplate>
+    </ListView>
+  </StackLayout>
+  <!--</StackLayout>-->
+
+</ContentPage>

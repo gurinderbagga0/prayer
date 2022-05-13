@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:DrawerMenu"
+             x:Class="DrawerMenu.MyNotifications" BackgroundColor="White" Title="Profile" >
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <Style TargetType="Label">
+        <!--<Setter Property="TextColor" Value="#50b0b3"/>-->
+        <Setter Property="FontSize" Value="15"/>
+        <Setter Property="FontFamily" Value="Arial"/>
+        <Setter Property="WidthRequest" Value="300"/>
+      </Style>
+      <Style TargetType="Entry">
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="FontFamily" Value="Arial"/>
+        <Setter Property="WidthRequest" Value="300"/>
+        <Setter Property="HorizontalOptions" Value="Fill" />
+        <Setter Property="VerticalOptions" Value="CenterAndExpand" />
+        <Setter Property="BackgroundColor" Value="#eaeaea" />
+        <Setter Property="TextColor" Value="#8899a6" />
+      </Style>
+    </ResourceDictionary>
+  </ContentPage.Resources>
+
+  <AbsoluteLayout>
+    <StackLayout
+        Padding="3, 3"
+        Spacing="3">
+      <StackLayout  HorizontalOptions="FillAndExpand"  Padding="10,10,10,10" >
+        <Label Text="Prayer Reminders"  TextColor="#50B0B3" FontSize="20" FontAttributes="Bold" />
+        <Label  FontSize="10" >
+          <Label.FormattedText>
+            <FormattedString>
+              <Span Text="Customize your own reminders to pray at certain times of the day/week." ></Span>
+            </FormattedString>
+          </Label.FormattedText>
+        </Label>
+        <Label>
+          <Label.FormattedText>
+            <FormattedString>
+              <Span Text="Set Personal Prayer Reminders (On/Off):" ></Span>
+            </FormattedString>
+          </Label.FormattedText>
+        </Label>
+        <Switch x:Name="SetSwitchRemainder"  Toggled="SetSwitchswitcher_Toggled" HorizontalOptions="Start"  />
+                <Button  x:Name="SwitchRemainder" Clicked="SetPrayerRemindersClicked" WidthRequest="200"  FontSize="12"  HorizontalOptions="FillAndExpand"  BackgroundColor="#73BB80" TextColor="White"     Text="Click here to Set/EDIT Reminders"     VerticalOptions="Fill">
+          <Button.HeightRequest>
+            <OnPlatform x:TypeArguments="x:Double" Android="40" iOS="25" WinPhone="30"/>
+          </Button.HeightRequest>
+        </Button>
+
+
+
+        <StackLayout HorizontalOptions="Start" Padding="0,0,0,0" >
+          <Label Text="Prayer Update Notifications"  TextColor="#50B0B3" FontSize="18" FontAttributes="Bold"/>
+          <Label  FontSize="10" >
+            <Label.FormattedText>
+              <FormattedString>
+                <Span Text="Receive personal notification when your requests receive prayer or when your prayers receive an update." ></Span>
+              </FormattedString>
+            </Label.FormattedText>
+          </Label>
+        </StackLayout>
+        <Label>
+          <Label.FormattedText>
+            <FormattedString>
+              <Span Text="Set Notifications (On/Off):" ></Span>
+            </FormattedString>
+          </Label.FormattedText>
+        </Label>
+        <Switch x:Name="PrayerUpdateNotificationSwitch"  Toggled="PrayerUpdateNotificationSwitch_Toggled"  HorizontalOptions="Start"  />
+
+        <StackLayout HorizontalOptions="Start" Padding="0,0,0,0" >
+          <Label Text="Push Notifications"  TextColor="#50B0B3" FontSize="18" FontAttributes="Bold"/>
+          <Label  FontSize="10" >
+            <Label.FormattedText>
+              <FormattedString>
+                <Span Text="Receive Notifications from TPZ reminding you to pray." ></Span>
+              </FormattedString>
+            </Label.FormattedText>
+          </Label>
+        </StackLayout>
+        <Label>
+          <Label.FormattedText>
+            <FormattedString>
+              <Span Text="Set Notifications (On/Off):" ></Span>
+            </FormattedString>
+          </Label.FormattedText>
+        </Label>
+        <Switch x:Name="PushNotificationSwitch"  Toggled="PushNotificationSwitch_Toggled"  HorizontalOptions="Start"  />
+
+      </StackLayout>
+    </StackLayout>
+  </AbsoluteLayout>
+
+</ContentPage>

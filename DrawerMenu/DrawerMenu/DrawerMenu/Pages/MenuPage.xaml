@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DrawerMenu.MenuPage" 
+            xmlns:local="clr-namespace:DrawerMenu;assembly=DrawerMenu">
+    <MasterDetailPage.Master>
+        <ContentPage Title="Menu" BackgroundColor="#DCDCDC" Icon="Hamburgericon.png"  >
+            <StackLayout Padding="0,0,10,0"   Orientation="Vertical" >
+                <StackLayout x:Name="stackUserInfo"  Orientation="Vertical"  >
+                    <Label x:Name="TxtUserFullName"  XAlign="Center" TextColor="#484C4D"  HorizontalOptions="FillAndExpand"  FontAttributes="Bold" FontSize="14"  Text=""    LineBreakMode="WordWrap"></Label>
+                    <Label  x:Name="TxtUserEmail" XAlign="Center" TextColor="#484C4D" HorizontalOptions="FillAndExpand"  FontAttributes="Bold" FontSize="14"  Text="gurinder.impinge@gmail.com"    LineBreakMode="WordWrap"></Label>
+                </StackLayout>
+
+
+                <Label  x:Name="btnAllPrayerRequests" IsVisible="false" HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" VerticalOptions="FillAndExpand"  BackgroundColor="#50B0B3" WidthRequest="35"   HeightRequest="20" FontSize="14" TextColor="White"  Text="All Prayer Requests" >
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer
+                      Tapped="OnOpenAllPrayers"
+                        NumberOfTapsRequired="1" />
+                    </Label.GestureRecognizers>
+                </Label>
+                <Label  x:Name="btnWaitingforPrayer" IsVisible="false"   HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" VerticalOptions="FillAndExpand"  BackgroundColor="#50B0B3" WidthRequest="35"   HeightRequest="20" FontSize="14" TextColor="White"   Text="Requests Waiting for Prayer" >
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer
+                      Tapped="OnOpenWaitingPrayers"
+                        NumberOfTapsRequired="1" />
+                    </Label.GestureRecognizers>
+                </Label>
+                <Label  x:Name="btnMyRequests" IsVisible="false"  HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" VerticalOptions="FillAndExpand"  BackgroundColor="#50B0B3" WidthRequest="35"   HeightRequest="20" FontSize="14" TextColor="White"  Text="My Requests" >
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer
+                      Tapped="OnOpenMyRequestsPosted"
+                        NumberOfTapsRequired="1" />
+                    </Label.GestureRecognizers>
+                </Label>
+                <Label  x:Name="btnRequestsIvePrayedFor" IsVisible="false" HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" VerticalOptions="FillAndExpand"  BackgroundColor="#50B0B3" WidthRequest="35"   HeightRequest="20" FontSize="14" TextColor="White"  Text="Requests I've Prayed For" >
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer
+                      Tapped="OnOpenRequestsIHavePrayedFor"
+                        NumberOfTapsRequired="1" />
+                    </Label.GestureRecognizers>
+                </Label>
+                <Label  x:Name="btnPostaPrayer" IsVisible="false"  HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" VerticalOptions="FillAndExpand"  BackgroundColor="#50B0B3" WidthRequest="35"   HeightRequest="20" FontSize="14" TextColor="White"   Text="Post Prayer Request">
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer
+                      Tapped="OnOpenPostaPrayer"
+                        NumberOfTapsRequired="1" />
+                    </Label.GestureRecognizers>
+                </Label>
+                <Label x:Name="btnMyProfile"  HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" VerticalOptions="FillAndExpand"  BackgroundColor="#50B0B3" WidthRequest="35"   HeightRequest="20" FontSize="14" TextColor="White"  Text="My Profile" >
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer
+                      Tapped="OnOpenProfilePage"
+                        NumberOfTapsRequired="1" />
+                    </Label.GestureRecognizers>
+                </Label>
+                <Label  x:Name="btnPushNotifications"  IsVisible="false"  HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" VerticalOptions="FillAndExpand"  BackgroundColor="#50B0B3" WidthRequest="35"   HeightRequest="20" FontSize="14" TextColor="White"    Text="Push Notifications" >
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer
+                      Tapped="OnOpenPushNotificationAdminPage"
+                        NumberOfTapsRequired="1" />
+                    </Label.GestureRecognizers>
+                </Label>
+                <Label  x:Name="btnBlockWords"  IsVisible="false"  HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" VerticalOptions="FillAndExpand"  BackgroundColor="#50B0B3" WidthRequest="35"   HeightRequest="20" FontSize="14" TextColor="White"    Text="Block Words">
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer
+                      Tapped="OnOpenBlockWordsAdminPage"
+                        NumberOfTapsRequired="1" />
+                    </Label.GestureRecognizers>
+                </Label>
+                <Label  x:Name="btnMyNotifications"  HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" VerticalOptions="FillAndExpand"  BackgroundColor="#50B0B3" WidthRequest="35"   HeightRequest="20" FontSize="14" TextColor="White"    Text="My Notifications" >
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer
+                      Tapped="OnMyNotificationsPage"
+                        NumberOfTapsRequired="1" />
+                    </Label.GestureRecognizers>
+
+                </Label>
+                <Label  x:Name="btnDisclaimer"  HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" VerticalOptions="FillAndExpand"  BackgroundColor="#50B0B3" WidthRequest="35"   HeightRequest="20" FontSize="14" TextColor="White"   Text="Disclaimer" >
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer
+                      Tapped="OnOpenDisclaimerPage"
+                        NumberOfTapsRequired="1" />
+                    </Label.GestureRecognizers>
+                </Label>
+                <Label  x:Name="btnContactUs"  HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" VerticalOptions="FillAndExpand"  BackgroundColor="#50B0B3" WidthRequest="35"   HeightRequest="20" FontSize="14" TextColor="White"   Text="Contact Us" >
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer
+                      Tapped="OnOpenContactUsPage"
+                        NumberOfTapsRequired="1" />
+                    </Label.GestureRecognizers>
+                </Label>
+
+                <Label  x:Name="btnGetHelp"   HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" VerticalOptions="FillAndExpand"  BackgroundColor="#50B0B3" WidthRequest="35"   HeightRequest="20" FontSize="14" TextColor="White"    Text="Get Help" >
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer
+                      Tapped="OnOpenGetHelpPage"
+                        NumberOfTapsRequired="1" />
+                    </Label.GestureRecognizers>
+                </Label>
+                <Label  x:Name="btnUsers"  IsVisible="false"  HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" VerticalOptions="FillAndExpand"  BackgroundColor="#50B0B3" WidthRequest="35"   HeightRequest="20" FontSize="14" TextColor="White"    Text="Users" >
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer
+                      Tapped="OnOpenSearchUsersPage"
+                        NumberOfTapsRequired="1" />
+                    </Label.GestureRecognizers>
+                </Label>
+                <Label  HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" VerticalOptions="FillAndExpand"  BackgroundColor="#50B0B3" WidthRequest="35"   HeightRequest="20" FontSize="14" TextColor="White"  Text="Log Out" >
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer
+                      Tapped="OnLogOutPage"
+                        NumberOfTapsRequired="1" />
+                    </Label.GestureRecognizers>
+                </Label>
+                <Label  HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" VerticalOptions="FillAndExpand"  BackgroundColor="#DCDCDC" WidthRequest="35"   HeightRequest="20" FontSize="14"   Text="" >
+                  
+                </Label>
+
+
+            </StackLayout>
+        </ContentPage>
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail Title="ThePrayerZone">
+        <NavigationPage>
+            <x:Arguments>
+                <local:HomeNew />
+            </x:Arguments>
+        </NavigationPage>
+
+    </MasterDetailPage.Detail>
+
+
+</MasterDetailPage>

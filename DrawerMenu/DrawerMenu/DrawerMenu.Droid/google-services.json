@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "210827963370",
+    "firebase_url": "https://tpzfcm.firebaseio.com",
+    "project_id": "tpzfcm",
+    "storage_bucket": "tpzfcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210827963370:android:125aa3f7913df72b",
+        "android_client_info": {
+          "package_name": "com.theprayerzone.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210827963370-e0eghlhkrjriie084dbmn885hl6ve476.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ-QQjrNv9Ag2cXHCXOKm1xLDiqasV_n0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210827963370:android:4294bfeec33f38b8",
+        "android_client_info": {
+          "package_name": "com.tpz.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210827963370-e0eghlhkrjriie084dbmn885hl6ve476.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ-QQjrNv9Ag2cXHCXOKm1xLDiqasV_n0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+               xmlns:renderer="clr-namespace:DrawerMenu;assembly=DrawerMenu"
+             x:Class="DrawerMenu.Pages.SignUpRequester" BackgroundColor="White">
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <Style TargetType="Label">
+        <!--<Setter Property="TextColor" Value="#50b0b3"/>-->
+        <Setter Property="FontSize" Value="16"/>
+        <Setter Property="FontFamily" Value="Arial"/>
+        <Setter Property="WidthRequest" Value="240"/>
+
+        <!--<Setter Property="HorizontalOptions" Value="Center"/>
+        <Setter Property="VerticalOptions" Value="Center"/>-->
+      </Style>
+      <Style TargetType="Entry">
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="FontFamily" Value="Arial"/>
+        <Setter Property="WidthRequest" Value="240"/>
+        <Setter Property="HorizontalOptions" Value="Fill" />
+        <Setter Property="VerticalOptions" Value="CenterAndExpand" />
+        <Setter Property="BackgroundColor" Value="#eaeaea" />
+        <Setter Property="TextColor" Value="#8899a6" />
+      </Style>
+      <Style TargetType="Picker">
+
+
+        <Setter Property="WidthRequest" Value="240"/>
+        <Setter Property="HorizontalOptions" Value="Fill" />
+        <Setter Property="VerticalOptions" Value="CenterAndExpand" />
+        <Setter Property="BackgroundColor" Value="#eaeaea" />
+        <Setter Property="TextColor" Value="#8899a6" />
+
+      </Style>
+    </ResourceDictionary>
+  </ContentPage.Resources>
+
+  <ScrollView
+     HorizontalOptions="Center"
+     VerticalOptions="Center">
+    <AbsoluteLayout>
+      <StackLayout
+           
+          Padding="3, 3"
+          Spacing="3">
+        <StackLayout x:Name="stackHeading" HorizontalOptions="FillAndExpand"  Padding="0,0,0,0" >
+          <Label Text="Sign up to Request Prayers" HorizontalOptions="Start" TextColor="#50B0B3" FontSize="18" FontAttributes="Bold"
+            />
+        </StackLayout>
+        <StackLayout HorizontalOptions="FillAndExpand" Padding="0,0,0,0" >
+          <Label >
+            <Label.FormattedText>
+              <FormattedString>
+                <Span Text="First Name - displayed" ></Span>
+                <Span x:Name="FirstNameRequesterValidation" Text="*" ForegroundColor="Red"></Span>
+              </FormattedString>
+            </Label.FormattedText>
+          </Label>
+          <renderer:EntryExt ReturnKeyType="Default" FontSize="14" BackgroundColor="#eaeaea" TextColor="#8899a6" FontFamily="Arial" VerticalOptions="CenterAndExpand" WidthRequest="240" HorizontalOptions="Fill" Placeholder="ex. John"  x:Name="FirstNameRequesterEntryText" />
+          <!--<Entry x:Name="FirstNameRequesterEntryText"  Placeholder="ex. John" >
+          </Entry>-->
+          <Label >
+            <Label.FormattedText>
+              <FormattedString>
+                <Span Text="Last Name - not displayed"></Span>
+                <Span Text="*" ForegroundColor="Red"></Span>
+              </FormattedString>
+            </Label.FormattedText>
+          </Label>
+          <renderer:EntryExt ReturnKeyType="Default" FontSize="14" BackgroundColor="#eaeaea" TextColor="#8899a6" FontFamily="Arial" VerticalOptions="CenterAndExpand" WidthRequest="240" HorizontalOptions="Fill" Placeholder="ex. Smith"  x:Name="LastNameRequesterEntryText" />
+          <!--<Entry x:Name="LastNameRequesterEntryText"  Placeholder="ex. Smith" />-->
+          <Label >
+            <Label.FormattedText>
+              <FormattedString>
+                <Span Text="Username - displayed"></Span>
+                <Span Text="*" ForegroundColor="Red"></Span>
+              </FormattedString>
+            </Label.FormattedText>
+          </Label>
+          <renderer:EntryExt ReturnKeyType="Default" FontSize="14" BackgroundColor="#eaeaea" TextColor="#8899a6" FontFamily="Arial" VerticalOptions="CenterAndExpand" WidthRequest="240" HorizontalOptions="Fill" Placeholder="ex. JohnSmith"  x:Name="UserNameRequesterEntryText" />
+          <!--<Entry x:Name="UserNameRequesterEntryText"  Placeholder="ex. JohnSmith" />-->
+          <Label >
+            <Label.FormattedText>
+              <FormattedString>
+                <Span Text="Email - not displayed"></Span>
+                <Span Text="*" ForegroundColor="Red"></Span>
+              </FormattedString>
+            </Label.FormattedText>
+          </Label>
+          <renderer:EntryExt ReturnKeyType="Default" FontSize="14" BackgroundColor="#eaeaea" TextColor="#8899a6" FontFamily="Arial" VerticalOptions="CenterAndExpand" WidthRequest="240" HorizontalOptions="Fill" Placeholder="ex. JohnSmith@example.com"  x:Name="EmailEntryRequesterText" />
+          <!--Entry x:Name="EmailEntryRequesterText"  Placeholder="ex. JohnSmith@example.com" />-->
+
+          <Label >
+            <Label.FormattedText>
+              <FormattedString>
+                <Span Text="Password"></Span>
+                <Span Text="*" ForegroundColor="Red"></Span>
+              </FormattedString>
+            </Label.FormattedText>
+          </Label>
+          <renderer:EntryExt ReturnKeyType="Default"  IsPassword="True" FontSize="14" BackgroundColor="#eaeaea" TextColor="#8899a6" FontFamily="Arial" VerticalOptions="CenterAndExpand" WidthRequest="240" HorizontalOptions="Fill" Placeholder="Must be at least 8 characters"  x:Name="PasswordRequesterEntryText" />
+          <!--<Entry x:Name="PasswordRequesterEntryText" IsPassword="True"  Placeholder="Must be at least 8 characters" />-->
+          <Label >
+            <Label.FormattedText>
+              <FormattedString>
+                <Span Text="Password Confirmation "></Span>
+                <Span Text="*" ForegroundColor="Red"></Span>
+              </FormattedString>
+            </Label.FormattedText>
+          </Label>
+          <renderer:EntryExt ReturnKeyType="Default"  IsPassword="True" FontSize="14" BackgroundColor="#eaeaea" TextColor="#8899a6" FontFamily="Arial" VerticalOptions="CenterAndExpand" WidthRequest="240" HorizontalOptions="Fill"  Placeholder="Must be at least 8 characters"  x:Name="PasswordConfirmationRequesterText" />
+          <!--<Entry x:Name="PasswordConfirmationRequesterText"  IsPassword="True" Placeholder="Must be at least 8 characters" />-->
+          <Label >
+            <Label.FormattedText>
+              <FormattedString>
+                <Span Text="Gender"></Span>
+                <Span Text="*" ForegroundColor="Red"></Span>
+              </FormattedString>
+            </Label.FormattedText>
+          </Label>
+          <!--<Entry x:Name="EmailText1451"  Placeholder="ex. JohnSmith@example.com" />-->
+          <Picker x:Name="GnderRequesterPicker"  Title="Choose Gender" SelectedIndex="{Binding Industry}" HorizontalOptions="FillAndExpand">
+            <Picker.Items>
+              <x:String >Male</x:String>
+              <x:String>Female</x:String>
+              <x:String>Prefer not to answer</x:String>
+
+            </Picker.Items>
+          </Picker>
+          <Label Text="How did you hear about us?" />
+          <Picker x:Name="hearaboutusRequesterPicker"  Title="Select" SelectedIndex="{Binding Industry}" HorizontalOptions="FillAndExpand">
+            <Picker.Items>
+              <x:String>Radio</x:String>
+              <x:String>www.TheHopeLine.com</x:String>
+              <x:String>TheHopeLine</x:String>
+              <x:String>Other</x:String>
+            </Picker.Items>
+          </Picker>
+          <!--<Switch x:Name="switcher"  HorizontalOptions="Center" VerticalOptions="CenterAndExpand"></Switch>-->
+          <StackLayout  HorizontalOptions="Center">
+            <StackLayout Orientation="Horizontal"  HorizontalOptions="FillAndExpand" Padding="0" >
+
+              <Image x:Name="chkreadTermconditionRequester" Source="Checked.png">
+                <Image.GestureRecognizers>
+                  <TapGestureRecognizer
+                          Tapped="OnTapGestureRecognizerTapped"  />
+                </Image.GestureRecognizers>
+              </Image>
+              <!--<Label x:Name="lblreadTermconditionRequester" Text="I have read the Terms and conditions"  />-->
+              <Label x:Name="lblreadTermconditionRequester">
+                <Label.FormattedText>
+                  <FormattedString>
+                    <Span Text="I have read the"  />
+                    <Span Text=" Terms and conditions" FontSize="12" ForegroundColor="#54B0B2" />
+                  </FormattedString>
+                </Label.FormattedText>
+              <Label.GestureRecognizers>
+                  <TapGestureRecognizer
+                          Tapped="OnTapGestureRecognizerTermsConditionsTapped"  />
+                </Label.GestureRecognizers>
+              </Label>
+            </StackLayout>
+
+          </StackLayout>
+
+          <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand"  Padding="0,0,0,0" >
+            <Button
+              Margin="10, 5" TextColor="White"
+              BackgroundColor="#50B0B3"
+              HorizontalOptions="FillAndExpand"
+                 Clicked="OnSignUpButtonRequester"
+              x:Name="SignUpButtonRequester"
+              Text="Sign Up">
+              <Button.HeightRequest>
+                <OnPlatform x:TypeArguments="x:Double"  Android="50" iOS="30" WinPhone="30"/>
+              </Button.HeightRequest>
+            </Button>
+            <Button
+                        Margin="10, 5" TextColor="White" HorizontalOptions="FillAndExpand" 
+                        BackgroundColor="#50B0B3"
+                       
+                           Clicked="OnBacktoHomeRequester"
+                        x:Name="Home"
+                        Text="Back to Home">
+              <Button.HeightRequest>
+                <OnPlatform x:TypeArguments="x:Double" Android="50" iOS="30" WinPhone="30"/>
+              </Button.HeightRequest>
+            </Button>
+          </StackLayout>
+        </StackLayout>
+      </StackLayout>
+
+
+
+
+    </AbsoluteLayout>
+  </ScrollView>
+</ContentPage>

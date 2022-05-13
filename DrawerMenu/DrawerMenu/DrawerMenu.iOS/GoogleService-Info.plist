@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>210827963370-rvsuim5rcjdvck3d43qnfirnp65ogppo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.210827963370-rvsuim5rcjdvck3d43qnfirnp65ogppo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB3j7ZR1UYfEAJT_zGYFibDoo8lMVndpfM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>210827963370</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.theprayerzone.ios</string>
+	<key>PROJECT_ID</key>
+	<string>tpzfcm</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tpzfcm.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:210827963370:ios:63537fc6c9b6e2f7</string>
+	<key>DATABASE_URL</key>
+	<string>https://tpzfcm.firebaseio.com</string>
+	<key>CFBundleDisplayName</key>
+	<string></string>
+	<key>CFBundleIdentifier</key>
+	<string></string>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+	</array>
+	<key>CFBundleShortVersionString</key>
+	<string></string>
+	<key>CFBundleVersion</key>
+	<string></string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+</dict>
+</plist>

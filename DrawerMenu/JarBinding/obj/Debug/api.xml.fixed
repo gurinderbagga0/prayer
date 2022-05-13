@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<api>
+  <package name="com.livechatinc.inappchat">
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="true" name="BuildConfig" static="false" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="BuildConfig" static="false" type="com.livechatinc.inappchat.BuildConfig" visibility="public">
+      </constructor>
+      <field deprecated="not deprecated" final="true" name="APPLICATION_ID" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;com.livechatinc.inappchat&quot;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="BUILD_TYPE" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;release&quot;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="DEBUG" static="true" transient="false" type="boolean" type-generic-aware="boolean" value="false" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="FLAVOR" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;&quot;" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="VERSION_CODE" static="true" transient="false" type="int" type-generic-aware="int" value="11" visibility="public" volatile="false">
+      </field>
+      <field deprecated="not deprecated" final="true" name="VERSION_NAME" static="true" transient="false" type="java.lang.String" type-generic-aware="java.lang.String" value="&quot;1.2.1&quot;" visibility="public" volatile="false">
+      </field>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="android.app.Fragment" extends-generic-aware="android.app.Fragment" final="true" name="ChatWindowFragment" static="false" visibility="public">
+      <constructor deprecated="not deprecated" final="false" name="ChatWindowFragment" static="false" type="com.livechatinc.inappchat.ChatWindowFragment" visibility="public">
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="newInstance" native="false" return="com.livechatinc.inappchat.ChatWindowFragment" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.Object">
+        </parameter>
+        <parameter name="p1" type="java.lang.Object">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="newInstance" native="false" return="com.livechatinc.inappchat.ChatWindowFragment" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="java.lang.Object">
+        </parameter>
+        <parameter name="p1" type="java.lang.Object">
+        </parameter>
+        <parameter name="p2" type="java.lang.String">
+        </parameter>
+        <parameter name="p3" type="java.lang.String">
+        </parameter>
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="ChatWindowFragment.1" static="false" visibility="">
+      <implements name="android.view.View.OnTouchListener" name-generic-aware="android.view.View.OnTouchListener">
+      </implements>
+      <method abstract="false" deprecated="not deprecated" final="false" name="onTouch" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.view.View">
+        </parameter>
+        <parameter name="p1" type="android.view.MotionEvent">
+        </parameter>
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="android.webkit.WebChromeClient" extends-generic-aware="android.webkit.WebChromeClient" final="false" name="ChatWindowFragment.LCWebChromeClient" static="false" visibility="">
+      <method abstract="false" deprecated="not deprecated" final="false" name="openFileChooser" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.webkit.ValueCallback&lt;android.net.Uri&gt;">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="openFileChooser" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.webkit.ValueCallback&lt;android.net.Uri&gt;">
+        </parameter>
+        <parameter name="p1" type="java.lang.String">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="openFileChooser" native="false" return="void" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.webkit.ValueCallback&lt;android.net.Uri&gt;">
+        </parameter>
+        <parameter name="p1" type="java.lang.String">
+        </parameter>
+        <parameter name="p2" type="java.lang.String">
+        </parameter>
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="android.webkit.WebViewClient" extends-generic-aware="android.webkit.WebViewClient" final="false" name="ChatWindowFragment.LCWebViewClient" static="false" visibility="">
+      <method abstract="false" deprecated="not deprecated" final="false" name="shouldOverrideUrlLoading" native="false" return="boolean" static="false" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.webkit.WebView">
+        </parameter>
+        <parameter name="p1" type="android.webkit.WebResourceRequest">
+        </parameter>
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="ChatWindowFragment.LCWebViewClient.1" static="false" visibility="">
+      <implements name="java.lang.Runnable" name-generic-aware="java.lang.Runnable">
+      </implements>
+      <method abstract="false" deprecated="not deprecated" final="false" name="run" native="false" return="void" static="false" synchronized="false" visibility="public">
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="ChatWindowFragment.LCWebViewClient.2" static="false" visibility="">
+      <implements name="java.lang.Runnable" name-generic-aware="java.lang.Runnable">
+      </implements>
+      <method abstract="false" deprecated="not deprecated" final="false" name="run" native="false" return="void" static="false" synchronized="false" visibility="public">
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="ChatWindowFragment.LCWebViewClient.3" static="false" visibility="">
+      <implements name="java.lang.Runnable" name-generic-aware="java.lang.Runnable">
+      </implements>
+      <method abstract="false" deprecated="not deprecated" final="false" name="run" native="false" return="void" static="false" synchronized="false" visibility="public">
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="android.os.AsyncTask" extends-generic-aware="android.os.AsyncTask&lt;java.lang.String, java.lang.Void, java.lang.String&gt;" final="false" name="LoadWebViewContentTask" static="false" visibility="">
+      <constructor deprecated="not deprecated" final="false" name="LoadWebViewContentTask" static="false" type="com.livechatinc.inappchat.LoadWebViewContentTask" visibility="public">
+        <parameter name="p0" type="android.webkit.WebView">
+        </parameter>
+        <parameter name="p1" type="android.widget.ProgressBar">
+        </parameter>
+        <parameter name="p2" type="android.widget.TextView">
+        </parameter>
+      </constructor>
+      <method abstract="false" deprecated="not deprecated" final="false" name="doInBackground" native="false" return="java.lang.Object" static="false" synchronized="false" visibility="protected">
+        <parameter name="p0" type="java.lang.Object[]">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="doInBackground" native="false" return="java.lang.String" static="false" synchronized="false" visibility="protected">
+        <parameter name="p0" type="java.lang.String...">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="onPostExecute" native="false" return="void" static="false" synchronized="false" visibility="protected">
+        <parameter name="p0" type="java.lang.String">
+        </parameter>
+      </method>
+    </class>
+    <class abstract="false" deprecated="not deprecated" extends="java.lang.Object" extends-generic-aware="java.lang.Object" final="false" name="UriUtils" static="false" visibility="public">
+      <method abstract="false" deprecated="not deprecated" final="false" name="getDataColumnForContentUri" native="false" return="java.lang.String" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.content.Context">
+        </parameter>
+        <parameter name="p1" type="android.net.Uri">
+        </parameter>
+        <parameter name="p2" type="java.lang.String">
+        </parameter>
+        <parameter name="p3" type="java.lang.String[]">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="getFilePathFromUri" native="false" return="java.lang.String" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.content.Context">
+        </parameter>
+        <parameter name="p1" type="android.net.Uri">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="isDownloadsDocument" native="false" return="boolean" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.net.Uri">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="isExternalStorageDocument" native="false" return="boolean" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.net.Uri">
+        </parameter>
+      </method>
+      <method abstract="false" deprecated="not deprecated" final="false" name="isMediaDocument" native="false" return="boolean" static="true" synchronized="false" visibility="public">
+        <parameter name="p0" type="android.net.Uri">
+        </parameter>
+      </method>
+    </class>
+  </package>
+</api>

@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:DrawerMenu"
+             x:Class="DrawerMenu.HomeNew" BackgroundColor="#DCDCDC" Title="Home" >
+    <ContentPage.Resources>
+        <ResourceDictionary>
+
+            <Style x:Key="orangeButton" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="#082E3E"/>
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="BorderRadius" Value="0"/>
+                <Setter Property="FontSize" Value="14" />
+            </Style>
+            <Style x:Key="redButton" TargetType="Button" >
+                <Setter Property="BackgroundColor" Value="#D9534F"/>
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="BorderRadius" Value="0"/>
+                <Setter Property="FontSize" Value="14" />
+            </Style>
+
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <StackLayout Spacing="5" Padding="5,5,5,5" x:Name="layout">
+        <StackLayout  VerticalOptions="Start"
+      HorizontalOptions="FillAndExpand" >
+            <StackLayout Orientation="Horizontal" Padding="0,0,0,0" >
+
+                <Label x:Name="lblWaitingText"    HeightRequest="30"   HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" VerticalOptions="FillAndExpand" BackgroundColor="#73BB80"     Text=""  Style="{StaticResource orangeButton}"  FontAttributes="Bold">
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer
+                      Tapped="WaitingTextClicked"
+                        NumberOfTapsRequired="1" />
+                    </Label.GestureRecognizers>
+                </Label>
+                <Label  x:Name="lblAddPrayerReques"    HeightRequest="30"  HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" VerticalOptions="FillAndExpand" BackgroundColor="#73BB80"     Text="+ Add Prayer Request"   Style="{StaticResource orangeButton}"  FontAttributes="Bold">  
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer
+                      Tapped="AddPrayerRequestClicked"
+                        NumberOfTapsRequired="1" />
+                    </Label.GestureRecognizers>
+                </Label>
+
+            </StackLayout>
+        </StackLayout>
+
+
+        <StackLayout  VerticalOptions="FillAndExpand"
+      HorizontalOptions="FillAndExpand">
+            <ListView x:Name="PrayerView" HasUnevenRows="True" Margin="5"  ItemsSource="{Binding Items}"
+              ItemTapped="Handle_ItemTapped"
+              ItemSelected="Handle_ItemSelected"
+              IsPullToRefreshEnabled="true"
+              CachingStrategy="RecycleElement"
+              RefreshCommand="{Binding RefreshDataCommand}"  Footer="{Binding IsLoadMore}"  BackgroundColor="White">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell >
+                            <ViewCell.View>
+                                <StackLayout Orientation="Vertical" Padding="3,3,3,3" Margin="5" VerticalOptions="FillAndExpand"   HorizontalOptions="FillAndExpand">
+                                    <StackLayout  Orientation="Horizontal" >
+                                        <Label  Text="{Binding first_name}" HorizontalOptions="StartAndExpand" VerticalOptions="Start" TextColor="#50b0b3" FontSize="18" XAlign="Start" LineBreakMode="TailTruncation"></Label>
+                                        <Button    VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"  CommandParameter="{Binding RequiredIDs}"   Clicked="PostPrayerClicked"  Text="{Binding TotalPrayerPosted}"  Style="{StaticResource orangeButton}" >
+                                            <Button.HeightRequest>
+                                                <OnPlatform x:TypeArguments="x:Double" Android="40" iOS="20" WinPhone="30"/>
+                                            </Button.HeightRequest>
+                                        </Button>
+
+
+                                    </StackLayout>
+
+                                    <StackLayout  Orientation="Horizontal" >
+                                        <Label  Text="{Binding user_name}" XAlign="Start" HorizontalOptions="StartAndExpand" VerticalOptions="Start" Font="Small"  TextColor="Gray" LineBreakMode="TailTruncation"></Label>
+                                        <Button HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" x:Name="btnDeleteRequest" Clicked="OnDeleteRequestPrayerClicked"  CommandParameter="{Binding PrayerRequestId}" IsVisible="{Binding IsDeleteButtonVisible}"  WidthRequest = "100"   Text="Delete Request"  Style="{StaticResource redButton}" >
+                                            <Button.HeightRequest>
+                                                <OnPlatform x:TypeArguments="x:Double" Android="40" iOS="20" WinPhone="30"/>
+                                            </Button.HeightRequest>
+                                        </Button>
+                                    </StackLayout>
+
+                                    <StackLayout  Orientation="Horizontal"  >
+                                        <Label HorizontalOptions="StartAndExpand" VerticalOptions="Start" XAlign="Start"  Text="{Binding title}" Font="Small"  TextColor="#50b0b3" FontSize="20" LineBreakMode="TailTruncation"></Label>
+
+                                        <Button Margin="2, 2"  BackgroundColor="White" TextColor="Black" HorizontalOptions="Fill" Clicked="OnSpamPrayerClicked" IsVisible="{Binding IsOffensiveButtonVisible}"  CommandParameter="{Binding PrayerRequestId}"  x:Name="spamPrayer"  Text="...">
+                                            <Button.HeightRequest>
+                                                <OnPlatform x:TypeArguments="x:Double" Android="40" iOS="25" WinPhone="30"/>
+                                            </Button.HeightRequest>
+                                        </Button>
+                                    </StackLayout>
+
+                                    <StackLayout  Orientation="Vertical" >
+
+                                        <StackLayout  HorizontalOptions="FillAndExpand" Orientation="Vertical" >
+                                            <Label HorizontalOptions="Start"  VerticalOptions="Start" Text="{Binding text}"  FontSize="18" XAlign="Start" Font="Small"  TextColor="Black" LineBreakMode="WordWrap"></Label>
+
+                                            <Button   x:Name="btnReadMore"  HorizontalOptions="EndAndExpand" FontSize="10" Margin="0, -5"  Clicked="PostPrayerClicked"  TextColor="#50b0b3"   CommandParameter="{Binding RequiredIDs}"  BackgroundColor="#ffffff"    Text="[Read More]"     >
+                                                <Button.HeightRequest>
+                                                    <OnPlatform x:TypeArguments="x:Double" Android="34" iOS="20" WinPhone="30"/>
+                                                </Button.HeightRequest>
+                                            </Button>
+                                        </StackLayout>
+                                        <StackLayout  Orientation="Horizontal"  >
+                                            <Label HorizontalOptions="StartAndExpand" VerticalOptions="Start" XAlign="Start" IsVisible="{Binding IsWaitingApproval}"  Text="Waiting for Approval....." Font="Small"  TextColor="Red" FontSize="15" LineBreakMode="TailTruncation"></Label>
+                                            <Button HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" x:Name="btnApproveRequest" Clicked="OnApprovePrayerClicked"  CommandParameter="{Binding PrayerRequestId}" IsVisible="{Binding IsApprovePrayerButtonVisible}"  WidthRequest = "100"   Text="Approve"  Style="{StaticResource redButton}" >
+                                                <Button.HeightRequest>
+                                                    <OnPlatform x:TypeArguments="x:Double" Android="40" iOS="20" WinPhone="30"/>
+                                                </Button.HeightRequest>
+                                            </Button>
+                                        </StackLayout>
+                                        <Button  Clicked="PostPrayerClicked"  IsVisible="{Binding IsPostPrayerButtonVisible}"  CommandParameter="{Binding RequiredIDs}" WidthRequest = "100"  BackgroundColor="#73BB80"    Text="Post a Prayer"  Style="{StaticResource orangeButton}"  FontAttributes="Bold" >
+                                            <Button.HeightRequest>
+                                                <OnPlatform x:TypeArguments="x:Double" Android="40" iOS="20" WinPhone="30"/>
+                                            </Button.HeightRequest>
+                                        </Button>
+
+                                        <Label  XAlign="Center" FontSize="12" Margin="5"  TextColor="Black"  Text="{Binding created_at}"    LineBreakMode="TailTruncation"></Label>
+                                    </StackLayout>
+                                </StackLayout>
+
+                            </ViewCell.View>
+                        </ViewCell>
+
+                    </DataTemplate>
+
+                </ListView.ItemTemplate>
+                <ListView.Footer>
+
+                    <Label   x:Name="lblloadMorePrayers"  Text="Load More"  IsVisible="{Binding IsLoadMore}"  BackgroundColor="#50B0B3"    XAlign="Center" TextColor="White" HorizontalOptions="FillAndExpand"  FontAttributes="Bold"  FontSize="20" >
+                        <Label.GestureRecognizers>
+                            <TapGestureRecognizer
+                    Tapped="OnTapLoadMoreTapped"
+                      NumberOfTapsRequired="1" />
+                        </Label.GestureRecognizers>
+                    </Label>
+                </ListView.Footer>
+
+            </ListView>
+
+        </StackLayout>
+
+
+
+    </StackLayout>
+
+
+</ContentPage>

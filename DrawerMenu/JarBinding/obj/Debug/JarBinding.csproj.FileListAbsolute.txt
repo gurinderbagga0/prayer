@@ -1,0 +1,5 @@
+F:\Gurinder\DrawerMenu\JarBinding\bin\Debug\JarBinding.dll
+F:\Gurinder\DrawerMenu\JarBinding\bin\Debug\JarBinding.pdb
+F:\Gurinder\DrawerMenu\JarBinding\obj\Debug\JarBinding.csprojResolveAssemblyReference.cache
+F:\Gurinder\DrawerMenu\JarBinding\obj\Debug\JarBinding.dll
+F:\Gurinder\DrawerMenu\JarBinding\obj\Debug\JarBinding.pdb

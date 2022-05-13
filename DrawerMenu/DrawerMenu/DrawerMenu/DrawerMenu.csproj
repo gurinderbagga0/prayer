@@ -1,0 +1,593 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\..\packages\Xamarin.Forms.3.0.0.561731\build\netstandard1.0\Xamarin.Forms.props" Condition="Exists('..\..\packages\Xamarin.Forms.3.0.0.561731\build\netstandard1.0\Xamarin.Forms.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <MinimumVisualStudioVersion>11.0</MinimumVisualStudioVersion>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9F38557F-FE19-4133-A86C-EC5ECF2F28D2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DrawerMenu</RootNamespace>
+    <AssemblyName>DrawerMenu</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Profile259</TargetFrameworkProfile>
+    <ProjectTypeGuids>{786C830F-07A1-408B-BD7F-6EE04809D6DB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Animations\UserAnimation.cs" />
+    <Compile Include="AppMemberPrayerRequest.cs" />
+    <Compile Include="App.cs" />
+    <Compile Include="clsCommon.cs" />
+    <Compile Include="Core\ChampionSignUp\IUserChampionRegisteration.cs" />
+    <Compile Include="Core\ChampionSignUp\UserChampionRegisteration.cs" />
+    <Compile Include="Core\ChampionSignUp\UserChampionRegisterationModel.cs" />
+    <Compile Include="Core\Common.cs" />
+    <Compile Include="Core\DeletePrayer\IDeletePrayer.cs" />
+    <Compile Include="Core\DeletePrayer\DeletePrayer.cs" />
+    <Compile Include="Core\DeletePrayer\DeletePrayerModel.cs" />
+    <Compile Include="Core\DeviceTokens\IPostDeviceToken.cs" />
+    <Compile Include="Core\DeviceTokens\PostDeviceToken.cs" />
+    <Compile Include="Core\DeviceTokens\PostDeviceTokenModel.cs" />
+    <Compile Include="Core\ForgotPassword\IUserForgotPassword.cs" />
+    <Compile Include="Core\ForgotPassword\UserForgotPassword.cs" />
+    <Compile Include="Core\ForgotPassword\UserForgotPasswordModel.cs" />
+    <Compile Include="Core\GetSinglePrayerData\IUserGetSinglePrayerDetails.cs" />
+    <Compile Include="Core\GetSinglePrayerData\UserSinglePrayerDetails.cs" />
+    <Compile Include="Core\GetSinglePrayerData\UserGetSinglePrayerDetailModel.cs" />
+    <Compile Include="Core\GetUserProfileInformation\IUserGetProfileDetails.cs" />
+    <Compile Include="Core\GetUserProfileInformation\UserGetProfileDetailModel.cs" />
+    <Compile Include="Core\GetUserProfileInformation\UserProfileDetails.cs" />
+    <Compile Include="Core\GetUserRole\IUserGetRoleDetails.cs" />
+    <Compile Include="Core\GetUserRole\UserGetRoleDetailModel.cs" />
+    <Compile Include="Core\GetUserRole\UserRoleDetails.cs" />
+    <Compile Include="Core\LiveCounterStats\IUserStats.cs" />
+    <Compile Include="Core\LiveCounterStats\UserStats.cs" />
+    <Compile Include="Core\LiveCounterStats\UserStatsModel.cs" />
+    <Compile Include="Core\NotificationSettingsAdmin\INotificationSettings.cs" />
+    <Compile Include="Core\NotificationSettingsAdmin\PostNotificationData.cs" />
+    <Compile Include="Core\NotificationSettingsAdmin\PostNotificationDataModel.cs" />
+    <Compile Include="Core\PostPrayers\IPostPrayer.cs" />
+    <Compile Include="Core\PostPrayers\PostPrayer.cs" />
+    <Compile Include="Core\PostPrayers\PostPrayerModel.cs" />
+    <Compile Include="Core\PrayerComments\IPrayersComments.cs" />
+    <Compile Include="Core\PrayerComments\PrayersComments.cs" />
+    <Compile Include="Core\PrayerComments\PrayersCommentsModel.cs" />
+    <Compile Include="Core\Prayers\IPrayers.cs" />
+    <Compile Include="Core\Prayers\Prayers.cs" />
+    <Compile Include="Core\Prayers\PrayersModel.cs" />
+    <Compile Include="Core\RequesterSignUp\IUserReqRegisteration.cs" />
+    <Compile Include="Core\RequesterSignUp\UserReqRegisteration.cs" />
+    <Compile Include="Core\RequesterSignUp\UserReqRegisterationModel.cs" />
+    <Compile Include="Core\RoleChangedChampionTPZ\IEmailVerificationData.cs" />
+    <Compile Include="Core\RoleChangedChampionTPZ\InsertEmailVerificationData.cs" />
+    <Compile Include="Core\RoleChangedChampionTPZ\EmailVerificationDataModel.cs" />
+    <Compile Include="Core\SearchUsersAdmin\AllUsersModel.cs" />
+    <Compile Include="Core\SearchUsersAdmin\IAllUsers.cs" />
+    <Compile Include="Core\SearchUsersAdmin\Alluers.cs" />
+    <Compile Include="Core\UpdateEmailVerificationInfoTPZ\IUpdateUserEmailVerificationInfo.cs" />
+    <Compile Include="Core\UpdateEmailVerificationInfoTPZ\UserEmailVerification.cs" />
+    <Compile Include="Core\UpdateEmailVerificationInfoTPZ\UserEmailVerificationModel.cs" />
+    <Compile Include="Core\UserLogin\IUser.cs" />
+    <Compile Include="Core\UserLogin\User.cs" />
+    <Compile Include="Core\UserLogin\UserModel.cs" />
+    <Compile Include="Core\UserProfile\IUserProfile.cs" />
+    <Compile Include="Core\UserProfile\UserProfile.cs" />
+    <Compile Include="Core\UserProfile\UserProfileModel.cs" />
+    <Compile Include="INotificationListener.cs" />
+    <Compile Include="INotificationService.cs" />
+    <Compile Include="NotificationListener.cs" />
+    <Compile Include="Pages\ApproveSinglePrayerAdminpopUp.xaml.cs">
+      <DependentUpon>ApproveSinglePrayerAdminpopUp.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\BlockWords.xaml.cs">
+      <DependentUpon>BlockWords.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ContactUsPopupPage.xaml.cs">
+      <DependentUpon>ContactUsPopupPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\DisclaimerPopupPage.xaml.cs">
+      <DependentUpon>DisclaimerPopupPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\DeleteNotificationtimeAdminpopUp.xaml.cs">
+      <DependentUpon>DeleteNotificationtimeAdminpopUp.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\DeleteSinglePrayerAdminpopUp.xaml.cs">
+      <DependentUpon>DeleteSinglePrayerAdminpopUp.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\EntryExt.cs" />
+    <Compile Include="Pages\FontAwesome.cs" />
+    <Compile Include="Pages\GetHelp.xaml.cs">
+      <DependentUpon>GetHelp.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MemberPrayerRequests.xaml.cs">
+      <DependentUpon>MemberPrayerRequests.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MyNotifications.xaml.cs">
+      <DependentUpon>MyNotifications.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MemberProfile.xaml.cs">
+      <DependentUpon>MemberProfile.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\HomeNew.xaml.cs">
+      <DependentUpon>HomeNew.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MenuPageNotifications.xaml.cs">
+      <DependentUpon>MenuPageNotifications.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Disclaimer.xaml.cs">
+      <DependentUpon>Disclaimer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\NationalSuicidePrevention.xaml.cs">
+      <DependentUpon>NationalSuicidePrevention.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\NotificationApp.cs" />
+    <Compile Include="Pages\SignUpRequesterInfo.xaml.cs">
+      <DependentUpon>SignUpRequesterInfo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SignUpChampionInfo.xaml.cs">
+      <DependentUpon>SignUpChampionInfo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ViewMore.xaml.cs">
+      <DependentUpon>ViewMore.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\TermsandConditions.xaml.cs">
+      <DependentUpon>TermsandConditions.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LiveChat.xaml.cs">
+      <DependentUpon>LiveChat.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\logout.xaml.cs">
+      <DependentUpon>logout.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PrayerRemainder.xaml.cs">
+      <DependentUpon>PrayerRemainder.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\AddPrayerReminder.xaml.cs">
+      <DependentUpon>AddPrayerReminder.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PushNotificationsAdmin.xaml.cs">
+      <DependentUpon>PushNotificationsAdmin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SearchUsersAdmin.xaml.cs">
+      <DependentUpon>SearchUsersAdmin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MemberPrayerSingleRequest.xaml.cs">
+      <DependentUpon>MemberPrayerSingleRequest.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MenuPageMemberRequest.xaml.cs">
+      <DependentUpon>MenuPageMemberRequest.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PrayerInfo.cs" />
+    <Compile Include="Pages\AddPrayerCommentPopupPage.xaml.cs">
+      <DependentUpon>AddPrayerCommentPopupPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\TestNotification.xaml.cs">
+      <DependentUpon>TestNotification.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\UpdateProfileFailedPopupPage.xaml.cs">
+      <DependentUpon>UpdateProfileFailedPopupPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\testpagered.xaml.cs">
+      <DependentUpon>testpagered.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\UpdatePrayerCommentPopupPage.xaml.cs">
+      <DependentUpon>UpdatePrayerCommentPopupPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\UpdatePrayerRequestPopupPage.xaml.cs">
+      <DependentUpon>UpdatePrayerRequestPopupPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\AddPrayerRequestPopupPage.xaml.cs">
+      <DependentUpon>AddPrayerRequestPopupPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ForGotPasswordpopUp.xaml.cs">
+      <DependentUpon>ForGotPasswordpopUp.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LoadingPopupPage.xaml.cs">
+      <DependentUpon>LoadingPopupPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LoginFailedPopupPage.xaml.cs">
+      <DependentUpon>LoginFailedPopupPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LoginPopupPage.xaml.cs">
+      <DependentUpon>LoginPopupPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LoginSuccessPopupPage.xaml.cs">
+      <DependentUpon>LoginSuccessPopupPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MenuPage.xaml.cs">
+      <DependentUpon>MenuPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SignUpChampion.xaml.cs">
+      <DependentUpon>SignUpChampion.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SignUpPopupPage.xaml.cs">
+      <DependentUpon>SignUpPopupPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SignUpRequester.xaml.cs">
+      <DependentUpon>SignUpRequester.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SignUpChampionFailedPopupPage.xaml.cs">
+      <DependentUpon>SignUpChampionFailedPopupPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SignUpRequesterFailedPopupPage.xaml.cs">
+      <DependentUpon>SignUpRequesterFailedPopupPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SystemOffsetPage.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="GettingStarted.Xamarin" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\MenuPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="BCrypt.Net">
+      <HintPath>E:\Xamarin\3JAN2022 Xamarin Updated\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\BCrypt.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="GCM.Client">
+      <HintPath>..\..\..\..\DrawerMenu_5Jan_2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\GCM.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Android">
+      <HintPath>bin\Debug\Mono.Android.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Newtonsoft.Json.10.0.2\lib\portable-net45+win8+wpa81+wp8\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PCLCrypto, Version=2.0.0.0, Culture=neutral, PublicKeyToken=d4421c8a4786956c, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\PCLCrypto.2.0.147\lib\portable-net45+win+wpa81+wp80+MonoAndroid10+xamarinios10+MonoTouch10\PCLCrypto.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PushNotification.Plugin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xam.Plugin.PushNotification.1.2.4\lib\portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10\PushNotification.Plugin.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PushNotification.Plugin.Abstractions, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xam.Plugin.PushNotification.1.2.4\lib\portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10\PushNotification.Plugin.Abstractions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Rg.Plugins.Popup">
+      <HintPath>..\..\..\..\DrawerMenu_5Jan_2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Rg.Plugins.Popup.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http, Version=1.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Microsoft.Net.Http.2.2.29\lib\portable-net40+sl4+win8+wp71+wpa81\System.Net.Http.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http.Extensions, Version=1.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Microsoft.Net.Http.2.2.29\lib\portable-net40+sl4+win8+wp71+wpa81\System.Net.Http.Extensions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http.Primitives, Version=1.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Microsoft.Net.Http.2.2.29\lib\portable-net40+sl4+win8+wp71+wpa81\System.Net.Http.Primitives.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Validation, Version=2.2.0.0, Culture=neutral, PublicKeyToken=2fc06f0d701809a7, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Validation.2.2.8\lib\portable-net40+sl50+win+wpa81+wp80+MonoAndroid10+xamarinios10+MonoTouch10\Validation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Core, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xamarin.Forms.3.0.0.561731\lib\netstandard1.0\Xamarin.Forms.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Platform, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xamarin.Forms.3.0.0.561731\lib\netstandard1.0\Xamarin.Forms.Platform.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Xaml, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xamarin.Forms.3.0.0.561731\lib\netstandard1.0\Xamarin.Forms.Xaml.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.iOS">
+      <HintPath>..\DrawerMenu.Droid\bin\Debug\Xamarin.iOS.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\LoginPopupPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\ForGotPasswordpopUp.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\SignUpPopupPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\SignUpRequester.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\SignUpChampion.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\AddPrayerRequestPopupPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\LoadingPopupPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\LoginSuccessPopupPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\LoginFailedPopupPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\SignUpRequesterFailedPopupPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\SignUpChampionFailedPopupPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\UpdatePrayerRequestPopupPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\MenuPageMemberRequest.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\MemberPrayerSingleRequest.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\DeleteSinglePrayerAdminpopUp.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\UpdatePrayerCommentPopupPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\AddPrayerCommentPopupPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\SearchUsersAdmin.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\UpdateProfileFailedPopupPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\logout.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\testpagered.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\LiveChat.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Helpers\CrossPushNotificationListener.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\PushNotificationsAdmin.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\DeleteNotificationtimeAdminpopUp.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\HomeNew.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\PrayerRemainder.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\AddPrayerReminder.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\TermsandConditions.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\MenuPageNotifications.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\MemberProfile.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\Disclaimer.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\DisclaimerPopupPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\MemberPrayerRequests.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\MyNotifications.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\TestNotification.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\ApproveSinglePrayerAdminpopUp.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\ContactUsPopupPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\NationalSuicidePrevention.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\BlockWords.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\ViewMore.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\SignUpChampionInfo.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\SignUpRequesterInfo.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pages\GetHelp.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
+  <Import Project="..\..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets" Condition="Exists('..\..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets')" />
+  <Target Name="EnsureBclBuildImported" BeforeTargets="BeforeBuild" Condition="'$(BclBuildImported)' == ''">
+    <Error Condition="!Exists('..\..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets')" Text="This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=317567." HelpKeyword="BCLBUILD2001" />
+    <Error Condition="Exists('..\..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets')" Text="The build restored NuGet packages. Build the project again to include these packages in the build. For more information, see http://go.microsoft.com/fwlink/?LinkID=317568." HelpKeyword="BCLBUILD2002" />
+  </Target>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\..\packages\Xamarin.Forms.3.0.0.561731\build\netstandard1.0\Xamarin.Forms.props')" Text="$([System.String]::Format('$(ErrorText)', '..\..\packages\Xamarin.Forms.3.0.0.561731\build\netstandard1.0\Xamarin.Forms.props'))" />
+    <Error Condition="!Exists('..\..\packages\Xamarin.Forms.3.0.0.561731\build\netstandard1.0\Xamarin.Forms.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\packages\Xamarin.Forms.3.0.0.561731\build\netstandard1.0\Xamarin.Forms.targets'))" />
+  </Target>
+  <Import Project="..\..\packages\Xamarin.Forms.3.0.0.561731\build\netstandard1.0\Xamarin.Forms.targets" Condition="Exists('..\..\packages\Xamarin.Forms.3.0.0.561731\build\netstandard1.0\Xamarin.Forms.targets')" />
+</Project>

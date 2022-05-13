@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DrawerMenu.Pages.SignUpChampionInfo" Title="SignUpChampionInfo">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Label">
+                <Setter Property="FontSize" Value="12"/>
+                <Setter Property="FontFamily" Value="Arial"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <StackLayout   HorizontalOptions="FillAndExpand"  Padding="0,0,0,0" >
+
+        <StackLayout Orientation="Horizontal" Padding="0,0">
+            <Label  HeightRequest="30" TextColor="#5FABFF"  HorizontalOptions="FillAndExpand"     Text="Back" >
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer
+                      Tapped="backClicked"
+                        NumberOfTapsRequired="1" />
+                </Label.GestureRecognizers>
+            </Label>
+        </StackLayout>
+        <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand" Padding="2,0,0,5" >
+            <Label x:Name="lblSignUpText" HorizontalOptions="FillAndExpand" FontFamily="Roboto,sans-serif" VerticalOptions="Center"  Text="Would you like to pray for others? Then this app is for you. Click the sign up button below to get started and post a prayer for someone today."  TextColor="#000000" FontSize="12" 
+            />
+            <StackLayout VerticalOptions="Center" Padding="2,5,5,0" HorizontalOptions="Center">
+                <!-- use a custom Markup Extension -->
+                <Image  Source="screen.png" />
+            </StackLayout>
+
+            <!--<WebView x:Name="Browser" WidthRequest="1000" HeightRequest="1000" />-->
+        </StackLayout>
+
+        <StackLayout  x:Name="stackHeadingLower" Orientation="Horizontal"  VerticalOptions="End" Padding="0,3,3,3" >
+
+            <!--<Image Source="logoios.png" HorizontalOptions="FillAndExpand" />-->
+            <Button   x:Name="btnSignUpRequesterLower"  HorizontalOptions="FillAndExpand"  BackgroundColor="#73BB80" TextColor="#ffffff"   Clicked="SignUpRequester_Clicked"       Text="Sign Up"     >
+                <Button.HeightRequest>
+                    <OnPlatform x:TypeArguments="x:Double" Android="40" iOS="20" WinPhone="30"/>
+                </Button.HeightRequest>
+            </Button>
+            <Button   x:Name="btnLearnMoreLower"  HorizontalOptions="FillAndExpand"  BackgroundColor="#73BB80" TextColor="#ffffff"   Clicked="LearnMore_Clicked"      Text="Learn More"     >
+                <Button.HeightRequest>
+                    <OnPlatform x:TypeArguments="x:Double" Android="40" iOS="20" WinPhone="30"/>
+                </Button.HeightRequest>
+            </Button>
+        </StackLayout>
+    </StackLayout>
+
+    <!--</StackLayout>-->
+
+
+
+</ContentPage>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DrawerMenu.Pages.AddPrayerReminder" Title="New Reminder">
+  <!--<ContentPage.ToolbarItems>
+    <ToolbarItem Text="Save" Clicked="Save_Clicked" />
+  </ContentPage.ToolbarItems>
+  <ContentPage.Content>-->
+  <StackLayout >
+    <StackLayout  x:Name="stackHeading" HorizontalOptions="FillAndExpand"  Orientation="Horizontal"  Padding="0,0,0,0" >
+      <Button   x:Name="btnBack"  HorizontalOptions="FillAndExpand"  TextColor="#000000"   Clicked="BackItem_Clicked"     BackgroundColor="#ffffff"    Text="Back"     >
+        <Button.HeightRequest>
+          <OnPlatform x:TypeArguments="x:Double" Android="34" iOS="20" WinPhone="30"/>
+        </Button.HeightRequest>
+      </Button>
+      <Image Source="logoios.png" HorizontalOptions="FillAndExpand" />
+      <Button   x:Name="btnSaveNewReminder"  HorizontalOptions="FillAndExpand" TextColor="#000000" Clicked="Save_Clicked"   BackgroundColor="#ffffff"    Text="Save"     >
+        <Button.HeightRequest>
+          <OnPlatform x:TypeArguments="x:Double" Android="34" iOS="20" WinPhone="30"/>
+        </Button.HeightRequest>
+      </Button>
+    </StackLayout>
+    <AbsoluteLayout  HorizontalOptions="Center"
+   VerticalOptions="Center">
+     
+      <StackLayout   HorizontalOptions="FillAndExpand"  Padding="0,0,0,0" >
+  
+        <StackLayout HorizontalOptions="FillAndExpand" WidthRequest="240"  Padding="3, 3"
+          Spacing="3" >
+          <Label >
+            <Label.FormattedText>
+              <FormattedString>
+                <Span Text="Reminder Day"></Span>
+                <Span Text="*" ForegroundColor="Red"></Span>
+              </FormattedString>
+            </Label.FormattedText>
+          </Label>
+          <Picker x:Name="DaysPicker"  Title="Choose Days" HorizontalOptions="FillAndExpand">
+            <Picker.Items>
+              <x:String >Daily</x:String>
+              <x:String>Monday</x:String>
+              <x:String>Tuesday</x:String>
+              <x:String>Wednesday</x:String>
+              <x:String>Thursday</x:String>
+              <x:String>Friday</x:String>
+              <x:String>Saturday</x:String>
+              <x:String>Sunday</x:String>
+            </Picker.Items>
+          </Picker>
+          <Label >
+            <Label.FormattedText>
+              <FormattedString>
+                <Span Text="Notification Time"></Span>
+              </FormattedString>
+            </Label.FormattedText>
+          </Label>
+          <TimePicker x:Name="TimePicker"   HorizontalOptions="FillAndExpand" ></TimePicker>
+        </StackLayout>
+     
+
+
+      </StackLayout>
+   </AbsoluteLayout>
+  </StackLayout>
+  <!--</ContentPage.Content>-->
+</ContentPage>

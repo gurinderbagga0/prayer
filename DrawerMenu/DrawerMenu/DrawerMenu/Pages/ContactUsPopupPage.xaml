@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pages:PopupPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+             xmlns:animations="clr-namespace:Rg.Plugins.Popup.Animations;assembly=Rg.Plugins.Popup"
+                xmlns:renderer="clr-namespace:DrawerMenu;assembly=DrawerMenu"
+             x:Class="DrawerMenu.ContactUsPopupPage">
+    <pages:PopupPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Label">
+                <!--<Setter Property="TextColor" Value="#50b0b3"/>-->
+                <Setter Property="FontSize" Value="11"/>
+                <Setter Property="FontFamily" Value="Arial"/>
+                <Setter Property="WidthRequest" />
+
+                <!--<Setter Property="HorizontalOptions" Value="Center"/>
+        <Setter Property="VerticalOptions" Value="Center"/>-->
+            </Style>
+            <Style TargetType="Entry">
+                <Setter Property="FontSize" Value="11"/>
+                <Setter Property="FontFamily" Value="Arial"/>
+                <Setter Property="WidthRequest" />
+                <Setter Property="HorizontalOptions" Value="Fill" />
+                <Setter Property="VerticalOptions" Value="CenterAndExpand" />
+                <Setter Property="BackgroundColor" Value="#eaeaea" />
+                <Setter Property="TextColor" Value="#8899a6" />
+            </Style>
+        </ResourceDictionary>
+    </pages:PopupPage.Resources>
+    <pages:PopupPage.Animation>
+        <animations:ScaleAnimation
+      PositionIn="Bottom"
+      PositionOut="Center"
+      ScaleIn="1"
+      ScaleOut="0.7"
+      DurationIn="700"
+      EasingIn="BounceOut"/>
+    </pages:PopupPage.Animation>
+    <ScrollView
+    HorizontalOptions="Center"
+    VerticalOptions="Center">
+        <AbsoluteLayout>
+            <Frame
+        x:Name="FrameContainer"
+        Margin="5"
+        HorizontalOptions="Center"
+        BackgroundColor="White">
+                <StackLayout  x:Name="stkmainStack"  HorizontalOptions="FillAndExpand" HeightRequest="570"  VerticalOptions="FillAndExpand" Padding="0,0,0,0" >
+                    <StackLayout IsClippedToBounds="True" Padding="3,3" Spacing="2">
+                        <StackLayout HorizontalOptions="FillAndExpand" Padding="0,5,0,5"  >
+                            <Label  x:Name="lblDisclaimerTitle"  Text="Contact Us:" FontFamily="Arial"  FontSize="15"  FontAttributes="Bold" TextColor="#8899a6" VerticalOptions="Center"
+                 HorizontalOptions="Center" />
+                        </StackLayout>
+                        <Label  x:Name="lblContactUsDescription"  FontFamily="Arial" Text="You may use the form below to contact ThePrayerZone. This form is NOT to be used for Prayer Requests. Please post those directly to the site."  TextColor="#000000" FontSize="11"
+                 LineBreakMode="WordWrap"></Label>
+
+                        <Label  x:Name="lblContactUsOtherDescription"  FontFamily="Arial" TextColor="#000000" FontSize="11">
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span Text="If you are in need of immediate help, DO NOT use this form. Dial 911, or call the "  />
+                                </FormattedString>
+                            </Label.FormattedText>
+
+                        </Label>
+                        <Label  x:Name="lblContactUsNationalSuicide"  FontFamily="Arial" TextColor="#000000" FontSize="11">
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span Text="National Suicide Prevention Lifeline" FontSize="11" ForegroundColor="#54B0B2" />
+                                    <Span Text=" at 1.800.273.8255."  />
+                                </FormattedString>
+                            </Label.FormattedText>
+                            <Label.GestureRecognizers>
+                                <TapGestureRecognizer
+                        Tapped="OnTapGestureRecognizerNationalSuicidePrevention"  />
+                            </Label.GestureRecognizers>
+
+                        </Label>
+
+                        <Label  x:Name="lblContactUsOtherinfo"  FontFamily="Arial" TextColor="#000000" FontSize="11">
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span Text="You may not receive an immediate response, we review these messages periodically."  />
+                                    <Span Text="Thank you!"  />
+                                </FormattedString>
+                            </Label.FormattedText>
+
+                        </Label>
+                        <Label >
+
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span Text="First Name" ></Span>
+                                    <Span x:Name="FirstNameValidation" Text="*" ForegroundColor="Red"></Span>
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+                        <renderer:EntryExt BackgroundColor="#eaeaea" TextColor="#8899a6" FontSize="12" FontFamily="Arial" HorizontalOptions="Fill" VerticalOptions="CenterAndExpand"   x:Name="FirstnameEntry"  />
+
+                        <Label >
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span Text="Last Name" ></Span>
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+                        <renderer:EntryExt BackgroundColor="#eaeaea" TextColor="#8899a6" FontSize="12" FontFamily="Arial" HorizontalOptions="Fill" VerticalOptions="CenterAndExpand"   x:Name="LastnameEntry"  />
+                        <Label >
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span Text="Email Address" ></Span>
+                                    <Span x:Name="EmailValidation" Text="*" ForegroundColor="Red"></Span>
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+                        <renderer:EntryExt   BackgroundColor="#eaeaea" TextColor="#8899a6" FontSize="12" FontFamily="Arial" HorizontalOptions="Fill" VerticalOptions="CenterAndExpand"  x:Name="EmailAddressEntry"  />
+
+                        <Label >
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span Text="Message" ></Span>
+                                    <Span x:Name="MessageValidation" Text="*" ForegroundColor="Red"></Span>
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+
+                        <Editor x:Name="MessageEntry" BackgroundColor="#eaeaea" TextColor="#8899a6"  VerticalOptions="FillAndExpand" HeightRequest="100" FontSize="12"  >
+                        </Editor>
+                        <Label >
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span x:Name="ErrMessage" Text="" ForegroundColor="Red"></Span>
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+
+                        <Button
+            Margin="2, 2"
+            BackgroundColor="#50B0B3" TextColor="#FFFFFF"
+            HorizontalOptions="Fill"
+             Clicked="OnSubmit"
+            x:Name="SubmitButton"
+            Text="Submit">
+                            <Button.HeightRequest>
+                                <OnPlatform x:TypeArguments="x:Double" Android="40" iOS="30" WinPhone="30"/>
+                            </Button.HeightRequest>
+                        </Button>
+                    </StackLayout>
+
+                </StackLayout>
+            </Frame>
+            <ContentView
+          AbsoluteLayout.LayoutFlags="PositionProportional"
+          AbsoluteLayout.LayoutBounds="1, 0, -1, -1">
+                <ContentView.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnCloseButtonTapped"/>
+                </ContentView.GestureRecognizers>
+                <Image
+          x:Name="CloseImage"
+          HeightRequest="30"
+          WidthRequest="30">
+                    <Image.Source>
+                        <OnPlatform
+              x:TypeArguments="ImageSource"
+              Android="close_circle_button.png"
+              iOS="close_circle_button.png"
+              WinPhone="Assets/close_circle_button.png"/>
+                    </Image.Source>
+                </Image>
+            </ContentView>
+        </AbsoluteLayout>
+    </ScrollView>
+</pages:PopupPage>

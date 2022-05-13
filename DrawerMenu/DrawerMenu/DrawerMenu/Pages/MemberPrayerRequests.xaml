@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:DrawerMenu"
+             x:Class="DrawerMenu.MemberPrayerRequests" BackgroundColor="#DCDCDC" Title="Home Page" >
+    <ContentPage.Resources>
+        <ResourceDictionary>
+
+            <Style x:Key="orangeButton" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="#082E3E"/>
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="BorderRadius" Value="0"/>
+                <Setter Property="FontSize" Value="12" />
+            </Style>
+            <Style x:Key="redButton" TargetType="Button" >
+                <Setter Property="BackgroundColor" Value="#D9534F"/>
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="BorderRadius" Value="0"/>
+                <Setter Property="FontSize" Value="10" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+
+    <StackLayout Spacing="5" Padding="5,5,5,5"   VerticalOptions="FillAndExpand"
+    HorizontalOptions="FillAndExpand" >
+        <StackLayout Orientation="Horizontal" Padding="0,0,0,0" >
+            <Button x:Name="lblWaitingText" Clicked="WaitingTextClicked"   HorizontalOptions="FillAndExpand"  BackgroundColor="#73BB80"     Text=""  Style="{StaticResource orangeButton}"  FontAttributes="Bold" VerticalOptions="Fill">
+                <Button.HeightRequest>
+                    <OnPlatform x:TypeArguments="x:Double" Android="32" iOS="25" WinPhone="30"/>
+                </Button.HeightRequest>
+            </Button>
+            <Button  x:Name="lblAddPrayerReques" IsVisible="False" Clicked="AddPrayerRequestClicked"   HorizontalOptions="FillAndExpand"  BackgroundColor="#73BB80"     Text="+ Add Prayer Request"  Style="{StaticResource orangeButton}"  FontAttributes="Bold" VerticalOptions="Fill">
+                <Button.HeightRequest>
+                    <OnPlatform x:TypeArguments="x:Double" Android="32" iOS="25" WinPhone="30"/>
+                </Button.HeightRequest>
+            </Button>
+            <Button  x:Name="lblBackButton" Clicked="BackButtonClicked"   HorizontalOptions="FillAndExpand"  BackgroundColor="#D9534E"     Text="Back"  Style="{StaticResource orangeButton}"  FontAttributes="Bold" VerticalOptions="Fill">
+                <Button.HeightRequest>
+                    <OnPlatform x:TypeArguments="x:Double" Android="32" iOS="25" WinPhone="30"/>
+                </Button.HeightRequest>
+            </Button>
+
+        </StackLayout>
+
+
+        <!--<AbsoluteLayout >-->
+        <StackLayout     x:Name="layout" Orientation="Vertical" VerticalOptions="FillAndExpand">
+            <StackLayout Orientation="Vertical" Padding="5,5,5,5" VerticalOptions="FillAndExpand"  BackgroundColor="White"  HorizontalOptions="FillAndExpand">
+                <!--<Label x:Name="lblPrayerDescription" WidthRequest="300" Text="" FontSize="15" FontFamily="FontAwesome"  TextColor="#282828" FontAttributes="None"  VerticalOptions="Start" HorizontalOptions="Start" >-->
+                <StackLayout  VerticalOptions="FillAndExpand"
+                HorizontalOptions="FillAndExpand">
+                    <ListView x:Name="lstPrayerComments"    IsVisible ="{Binding IsListVisible}"
+                    ItemSelected="Handle_ItemSelected" VerticalOptions="FillAndExpand" WidthRequest="300"  BackgroundColor="White" 
+                        HasUnevenRows="True" Margin="5"  ItemsSource="{Binding Items}" 
+                          IsPullToRefreshEnabled="true" 
+                       CachingStrategy="RecycleElement"
+                          IsRefreshing="{Binding IsBusy, Mode=OneWay}"
+                    RefreshCommand="{Binding RefreshDataCommand}" >
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell >
+                                    <ViewCell.View>
+                                        <StackLayout Orientation="Vertical" VerticalOptions = "FillAndExpand" Padding="3,3,3,3"  BackgroundColor="White" >
+                                            <StackLayout  Orientation="Horizontal">
+                                                <Label Text="&#xf111;" IsVisible="False" TextColor="Green"
+                                                     FontSize="14" FontFamily="FontAwesome" ></Label>
+                                            </StackLayout>
+                                            <StackLayout  Orientation="Horizontal">
+
+                                                <Label Text="&#xf111;" IsVisible="{Binding IsGreenIconVisible}" TextColor="Green"
+                                                     FontSize="14" FontFamily="FontAwesome" ></Label>
+                                                <Label  x:Name="lblPrayerCommentsText"   FontFamily="FontAwesome"  Text="{Binding text}" TextColor="#474c4d"  FontSize="15" XAlign="Start" VerticalOptions="Start" HorizontalOptions="Start" />
+                                                <Button Margin="2, 2"  BackgroundColor="White"  TextColor="Black" HorizontalOptions="Fill" Clicked="OnSpamCommentClicked" IsVisible="{Binding IsOffensiveButtonVisible}"  CommandParameter="{Binding OtherInfoforSpam}"  x:Name="spamComments"  Text="...">
+                                                    <Button.HeightRequest>
+                                                        <OnPlatform x:TypeArguments="x:Double" Android="40" iOS="25" WinPhone="30"/>
+                                                    </Button.HeightRequest>
+                                                </Button>
+                                            </StackLayout>
+                                            <Label Text="{Binding OtherInformation}" TextColor="#999999"  FontSize="15" XAlign="Start" VerticalOptions="Start" HorizontalOptions="Start" />
+                                            <Label HorizontalOptions="StartAndExpand" VerticalOptions="Start" XAlign="Start" IsVisible="{Binding IsWaitingApproval}"  Text="Waiting for Approval....." Font="Small"  TextColor="Red" FontSize="15" LineBreakMode="TailTruncation"></Label>
+                                            <Button x:Name="btnDeleteComment"  CommandParameter="{Binding id}" Clicked="OnDeleteCommentClicked" IsVisible="{Binding IsDeleteButtonVisible}"  BackgroundColor="#D9534F" TextColor="#FFFFFF" HorizontalOptions="Fill" Text="Delete Comment">
+                                                <Button.HeightRequest>
+                                                    <OnPlatform x:TypeArguments="x:Double" Android="50" iOS="30" WinPhone="30"/>
+                                                </Button.HeightRequest>
+                                            </Button>
+                                            <Button x:Name="btnApproveComment"  CommandParameter="{Binding id}" Clicked="OnApproveCommentClicked" IsVisible="{Binding IsApproveCommentButtonVisible}"  BackgroundColor="#D9534F" TextColor="#FFFFFF" HorizontalOptions="Fill" Text="Approve Comment">
+                                                <Button.HeightRequest>
+                                                    <OnPlatform x:TypeArguments="x:Double" Android="50" iOS="30" WinPhone="30"/>
+                                                </Button.HeightRequest>
+                                            </Button>
+
+                                        </StackLayout>
+                                    </ViewCell.View>
+                                </ViewCell>
+                            </DataTemplate>
+
+
+                        </ListView.ItemTemplate>
+                        <ListView.Header>
+                            <StackLayout  Orientation="Vertical" VerticalOptions="FillAndExpand" >
+                                <Button x:Name="btnAddComment" IsVisible="false"   Clicked="OnAddCommentClicked"   BackgroundColor="#73BB80" TextColor="#FFFFFF" HorizontalOptions="Fill" Text="Add new Prayer/Comment">
+                                    <Button.HeightRequest>
+                                        <OnPlatform x:TypeArguments="x:Double" Android="33" iOS="30" WinPhone="20"/>
+                                    </Button.HeightRequest>
+                                </Button>
+                                <Label x:Name="lblPrayerTitleHeading" Text="" TextColor="#50b0b3" FontAttributes="Bold"  FontSize="18" XAlign="Start" VerticalOptions="Start" HorizontalOptions="Start" />
+                                <StackLayout  Orientation="Horizontal" >
+                                    <Label  x:Name="lblPrayerTitle"  WidthRequest="300" TextColor="#50b0b3" FontSize="18" VerticalOptions="Start" HorizontalOptions="Start"   LineBreakMode="WordWrap">
+                                        <Label.GestureRecognizers>
+                                            <TapGestureRecognizer
+                      Tapped="OnTapGestureRecognizerPrayerTitleTapped"
+                        NumberOfTapsRequired="1" />
+                                        </Label.GestureRecognizers>
+                                    </Label>
+                                    <Button Margin="2, 2"  BackgroundColor="White" TextColor="Black"  HorizontalOptions="Fill"   Clicked="OnSpamPrayerClicked"  CommandParameter="{Binding PrayerRequestId}"  x:Name="spamPrayer"  Text="...">
+                                        <Button.HeightRequest>
+                                            <OnPlatform x:TypeArguments="x:Double" Android="40" iOS="25" WinPhone="30"/>
+                                        </Button.HeightRequest>
+                                    </Button>
+                                </StackLayout>
+                                <Label x:Name="lblPrayerDescriptionwithoutquoteright" Text="" FontFamily="FontAwesome" IsVisible="false"  FontAttributes="None" TextColor="#282828" FontSize="Default" VerticalOptions="Start" HorizontalOptions="Start" />
+                                <Label x:Name="lblPrayerDescriptionquoteleft" Text="&#xf10d;" FontFamily="FontAwesome" IsVisible="false"  FontAttributes="None" TextColor="#282828" FontSize="Default" VerticalOptions="Start" HorizontalOptions="Start" />
+                                <Label x:Name="lblPrayerDescriptionquoteright" Text="&#xf10e;" FontFamily="FontAwesome" IsVisible="false"  FontAttributes="None" TextColor="#282828" FontSize="Default" VerticalOptions="Start" HorizontalOptions="Start" />
+                                <Label  x:Name="lblPrayerDescription" WidthRequest="300"  FontFamily="FontAwesome"  TextColor="#474c4d"  FontSize="15" XAlign="Start" VerticalOptions="Start" HorizontalOptions="Start" >
+                                    <Label.GestureRecognizers>
+                                        <TapGestureRecognizer
+                      Tapped="OnTapGestureRecognizerPrayerTitleTapped"
+                        NumberOfTapsRequired="1" />
+                                    </Label.GestureRecognizers>
+                                </Label>
+                                <Label  x:Name="lblPrayerOtheInfo" Text="" TextColor="#999999" FontSize="15" VerticalOptions="Start" HorizontalOptions="Start" >
+                                    <Label.GestureRecognizers>
+                                        <TapGestureRecognizer
+                      Tapped="OnTapGestureRecognizerPrayerTitleTapped"
+                        NumberOfTapsRequired="1" />
+                                    </Label.GestureRecognizers>
+                                </Label>
+                                <Button x:Name="btnDeleteCommentMain" Clicked="OnDeleteRequestPrayerClicked"
+                               Margin="10, 5" IsVisible="false"
+                               BackgroundColor="#D9534F" TextColor="#FFFFFF"
+                               HorizontalOptions="Fill"
+                               Text="Delete Request">
+                                    <Button.HeightRequest>
+                                        <OnPlatform x:TypeArguments="x:Double" Android="50" iOS="30" WinPhone="30"/>
+                                    </Button.HeightRequest>
+                                </Button>
+
+
+                                <Button x:Name="btnApproveRequest" Clicked="OnApprovePrayerClicked"
+                               Margin="10, 5" IsVisible="false" 
+                               BackgroundColor="#D9534F" TextColor="#FFFFFF"
+                               HorizontalOptions="Fill"
+                               Text="Approve Request">
+                                    <Button.HeightRequest>
+                                        <OnPlatform x:TypeArguments="x:Double" Android="50" iOS="30" WinPhone="30"/>
+                                    </Button.HeightRequest>
+                                </Button>
+                                <StackLayout  Orientation="Vertical" Padding="3,3,3,3" >
+                                    <Label  x:Name="lblPrayerCommentsHeading" Text="" TextColor="#50b0b3" Margin="5" FontAttributes="Bold"  FontSize="18" XAlign="Start" VerticalOptions="Start" HorizontalOptions="Start" />
+                                </StackLayout>
+                                <Label  x:Name="lblNoComments" Text="No Comments/Prayers posted yet..." IsVisible="false" TextColor="#474c4d"  FontSize="20" XAlign="Start" VerticalOptions="Start" HorizontalOptions="Start" />
+                            </StackLayout>
+                        </ListView.Header>
+                        <ListView.Footer>
+                            <StackLayout  Orientation="Vertical" >
+                                <Button x:Name="btnAddCommentonprayer" IsVisible="false"   Clicked="OnAddCommentClicked"   BackgroundColor="#73BB80" TextColor="#FFFFFF" HorizontalOptions="Fill" Text="Add new Prayer/Comment">
+                                    <Button.HeightRequest>
+                                        <OnPlatform x:TypeArguments="x:Double" Android="33" iOS="30" WinPhone="20"/>
+                                    </Button.HeightRequest>
+                                </Button>
+                                <Label  x:Name="lblWaitingApproval" HorizontalOptions="StartAndExpand" VerticalOptions="Start" XAlign="Start" IsVisible="False"  Text="" Font="Small"  TextColor="Red" FontSize="15" LineBreakMode="TailTruncation"></Label>
+
+                            </StackLayout>
+                        </ListView.Footer>
+                    </ListView>
+
+                </StackLayout>
+
+            </StackLayout>
+        </StackLayout>
+        <!--</AbsoluteLayout>-->
+
+
+    </StackLayout>
+</ContentPage>

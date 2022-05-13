@@ -1,0 +1,815 @@
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\DrawerMenu.Droid.nuget.stamp
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\libraryimports.cache.stamp
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res.flag
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\DrawerMenu.Droid.csproj.CoreCompileInputs.cache
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\DrawerMenu.Droid.csprojAssemblyReference.cache
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ThePrayerZone.dll.config
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ThePrayerZone.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ThePrayerZone.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\com.tpz.com.apk
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\com.tpz.com-Signed.apk
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\DrawerMenu.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\FormsViewGroup.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\GCM.Client.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Newtonsoft.Json.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PCLCrypto.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PInvoke.BCrypt.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PInvoke.Kernel32.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PInvoke.NCrypt.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PInvoke.Windows.Core.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Rg.Plugins.Popup.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Validation.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Annotations.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Transition.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Core.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.GooglePlayServices.Gcm.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\BCrypt.Net.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\DrawerMenu.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\DrawerMenu.dll.config
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\FormsViewGroup.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\FormsViewGroup.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Newtonsoft.Json.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PCLCrypto.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PInvoke.BCrypt.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PInvoke.Kernel32.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PInvoke.NCrypt.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PInvoke.Windows.Core.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Validation.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Core.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\XamlC.stamp
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\DrawerMenu.Droid.csproj.CopyComplete
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\ThePrayerZone.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\ThePrayerZone.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\bin\com.tpz.com.apk
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\values-v21\styles.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\icon.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\icon.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\icon.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\icon.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\layout\tabbar.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\layout\toolbar.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\values\styles.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\addprayer.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\addprayerselected.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\banner.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\checked.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\close_circle_button.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\cover.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\github_octocat.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\home.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\homenew.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\homeselected.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\loginpanellogo.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\logo.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\not_checked.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\pop_up_logo.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\profile.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\profileselected.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\splashscreen.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\addprayer.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\addprayerselected.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\banner.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\checked.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\cover.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\home.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\homenew.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\homeselected.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\loginpanellogo.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\logo.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\not_checked.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\profile.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\profileselected.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\select_btn.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\select_disabled_btn_2.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\splashscreen.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\addprayer.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\addprayerselected.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\banner.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\cover.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\home.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\homenew.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\homeselected.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\loginpanellogo.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\logo.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\profile.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\profileselected.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\splashscreen.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\addprayer.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\addprayerselected.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\banner.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\cover.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\home.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\homeselected.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\loginpanellogo.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\logo.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\profile.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\profileselected.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\splashscreen.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\values\nostyles.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\values\colors.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\hamburgericon.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\hamburgericon.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\hamburgericon.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\hamburgericon.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\biglogo.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\logobig.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\logobig.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\logobig.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\logobig.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\screen.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\screen.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\screen.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\screen.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\ic_launcher_delete.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\ic_launcher_delete.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\ic_launcher_delete.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\ic_launcher_delete.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\ic_launcher_edit.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\ic_launcher_edit.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\ic_launcher_edit.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\ic_launcher_edit.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\icondelete.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\icondelete.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\icondelete.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\icondelete.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\iconedit.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\iconedit.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\iconedit.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\iconedit.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\logoios.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\logoios.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\logoios.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\logoios.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\R.cs.flag
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\R.txt
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\uploadflags.txt
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\Xamarin.Forms.Platform.iOS.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Microsoft.CSharp.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Mono.Android.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\mscorlib.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Core.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.IO.Compression.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Net.Http.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Xml.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Xml.Linq.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.ComponentModel.Composition.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Runtime.Serialization.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.ServiceModel.Internals.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Numerics.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Mono.Security.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Data.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Transactions.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.IO.Compression.FileSystem.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Web.Services.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\Microsoft.CSharp.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\Mono.Android.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\mscorlib.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Core.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.IO.Compression.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Net.Http.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Xml.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Numerics.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\Mono.Security.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Data.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Transactions.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Web.Services.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\DrawerMenu.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Platform.iOS.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\ThePrayerZone.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\DrawerMenu.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\Xamarin.Forms.Platform.iOS.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ThePrayerZone.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\DrawerMenu.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\FormsViewGroup.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\ThePrayerZone.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\Xamarin.Forms.Platform.iOS.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\Microsoft.CSharp.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\Mono.Android.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\Mono.Security.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\mscorlib.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Core.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Data.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.IO.Compression.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Net.Http.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Numerics.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Transactions.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Web.Services.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Xml.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ThePrayerZone.dll.config
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ThePrayerZone.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ThePrayerZone.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\com.tpz.com.apk
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\com.tpz.com-Signed.apk
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\DrawerMenu.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\FormsViewGroup.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Newtonsoft.Json.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PCLCrypto.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PInvoke.BCrypt.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PInvoke.Kernel32.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PInvoke.NCrypt.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PInvoke.Windows.Core.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Validation.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Annotations.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Transition.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Core.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.GooglePlayServices.Gcm.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\BCrypt.Net.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.iOS.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Rg.Plugins.Popup.IOS.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Platform.iOS.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\DrawerMenu.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\DrawerMenu.dll.config
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\DrawerMenu.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\FormsViewGroup.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\FormsViewGroup.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Newtonsoft.Json.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PCLCrypto.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PInvoke.BCrypt.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PInvoke.Kernel32.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PInvoke.NCrypt.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PInvoke.Windows.Core.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Validation.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Core.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.iOS.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Platform.iOS.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Platform.iOS.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\DrawerMenu.Droid.nuget.stamp
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\DrawerMenu.Droid.csprojAssemblyReference.cache
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\libraryimports.cache.stamp
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res.flag
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\DrawerMenu.Droid.csproj.CoreCompileInputs.cache
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\XamlC.stamp
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\DrawerMenu.Droid.csproj.CopyComplete
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\ThePrayerZone.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\ThePrayerZone.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\bin\com.tpz.com.apk
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\values-v21\styles.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\icon.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\icon.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\icon.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\icon.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\layout\tabbar.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\layout\toolbar.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\values\styles.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\addprayer.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\addprayerselected.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\banner.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\checked.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\close_circle_button.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\cover.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\github_octocat.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\home.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\homenew.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\homeselected.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\loginpanellogo.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\logo.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\not_checked.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\pop_up_logo.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\profile.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\profileselected.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\splashscreen.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\addprayer.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\addprayerselected.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\banner.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\checked.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\cover.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\home.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\homenew.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\homeselected.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\loginpanellogo.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\logo.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\not_checked.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\profile.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\profileselected.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\select_btn.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\select_disabled_btn_2.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\splashscreen.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\addprayer.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\addprayerselected.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\banner.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\cover.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\home.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\homenew.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\homeselected.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\loginpanellogo.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\logo.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\profile.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\profileselected.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\splashscreen.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\addprayer.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\addprayerselected.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\banner.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\cover.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\home.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\homeselected.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\loginpanellogo.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\logo.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\profile.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\profileselected.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\splashscreen.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\values\nostyles.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\values\colors.xml
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\hamburgericon.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\hamburgericon.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\hamburgericon.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\hamburgericon.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\biglogo.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\logobig.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\logobig.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\logobig.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\logobig.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\screen.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\screen.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\screen.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\screen.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\ic_launcher_delete.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\ic_launcher_delete.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\ic_launcher_delete.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\ic_launcher_delete.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\ic_launcher_edit.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\ic_launcher_edit.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\ic_launcher_edit.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\ic_launcher_edit.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\icondelete.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\icondelete.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\icondelete.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\icondelete.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\iconedit.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\iconedit.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\iconedit.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\iconedit.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\logoios.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\logoios.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\logoios.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\logoios.png
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\R.cs.flag
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\R.txt
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\uploadflags.txt
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Microsoft.CSharp.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Mono.Android.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Mono.Security.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\mscorlib.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.ComponentModel.Composition.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Core.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Data.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.IO.Compression.FileSystem.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.IO.Compression.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Net.Http.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Numerics.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Runtime.Serialization.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.ServiceModel.Internals.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Transactions.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Web.Services.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Xml.Linq.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Xml.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ThePrayerZone.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\DrawerMenu.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\FormsViewGroup.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\ThePrayerZone.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\Xamarin.Forms.Platform.iOS.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\Microsoft.CSharp.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\Mono.Android.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\Mono.Security.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\mscorlib.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Core.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Data.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.IO.Compression.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Net.Http.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Numerics.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Transactions.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Web.Services.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Xml.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\DrawerMenu.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\ThePrayerZone.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\Xamarin.Forms.Platform.iOS.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\Microsoft.CSharp.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\Mono.Android.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\Mono.Security.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\mscorlib.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Core.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Data.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.IO.Compression.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Net.Http.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Numerics.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Transactions.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Web.Services.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Xml.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Rg.Plugins.Popup.Droid.pdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Rg.Plugins.Popup.Droid.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\Rg.Plugins.Popup.Droid.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\Rg.Plugins.Popup.Droid.dll.mdb
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\GCM.Client.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Rg.Plugins.Popup.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Rg.Plugins.Popup.Droid.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Rg.Plugins.Popup.Platform.dll
+E:\Gurinder\ThePrayerZoneWorkingApp\Android\newcode\DrawerMenu\DrawerMenu\DrawerMenu\bin\Debug\DrawerMenu.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ThePrayerZone.dll.config
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ThePrayerZone.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ThePrayerZone.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\com.tpz.com.apk
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\com.tpz.com-Signed.apk
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\DrawerMenu.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PCLCrypto.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PInvoke.BCrypt.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PInvoke.Kernel32.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PInvoke.NCrypt.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PInvoke.Windows.Core.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Validation.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.GooglePlayServices.Gcm.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\BCrypt.Net.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.iOS.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Rg.Plugins.Popup.IOS.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\DrawerMenu.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\DrawerMenu.dll.config
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\DrawerMenu.dll.mdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PCLCrypto.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PInvoke.BCrypt.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PInvoke.Kernel32.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PInvoke.NCrypt.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\PInvoke.Windows.Core.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Rg.Plugins.Popup.Droid.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Validation.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.iOS.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Xamarin.Forms.Platform.iOS.dll.mdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\DrawerMenu.Droid.nuget.stamp
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\DrawerMenu.Droid.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res.flag
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\DrawerMenu.Droid.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\XamlC.stamp
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\DrawerMenu.Droid.csproj.CopyComplete
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\ThePrayerZone.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\ThePrayerZone.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\bin\com.tpz.com.apk
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\values-v21\styles.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\icon.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\icon.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\icon.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\icon.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\layout\tabbar.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\layout\toolbar.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\values\styles.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\addprayer.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\addprayerselected.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\banner.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\checked.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\close_circle_button.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\cover.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\github_octocat.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\home.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\homenew.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\homeselected.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\loginpanellogo.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\logo.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\not_checked.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\pop_up_logo.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\profile.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\profileselected.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\splashscreen.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\addprayer.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\addprayerselected.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\banner.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\checked.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\cover.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\home.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\homenew.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\homeselected.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\loginpanellogo.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\logo.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\not_checked.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\profile.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\profileselected.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\select_btn.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\select_disabled_btn_2.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\splashscreen.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\addprayer.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\addprayerselected.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\banner.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\cover.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\home.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\homenew.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\homeselected.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\loginpanellogo.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\logo.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\profile.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\profileselected.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\splashscreen.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\addprayer.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\addprayerselected.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\banner.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\cover.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\home.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\homeselected.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\loginpanellogo.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\logo.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\profile.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\profileselected.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\splashscreen.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\values\nostyles.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\values\colors.xml
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\hamburgericon.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\hamburgericon.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\hamburgericon.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\hamburgericon.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\biglogo.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\logobig.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\logobig.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\logobig.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\logobig.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\screen.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\screen.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\screen.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\screen.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\ic_launcher_delete.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\ic_launcher_delete.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\ic_launcher_delete.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\ic_launcher_delete.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\ic_launcher_edit.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\ic_launcher_edit.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\ic_launcher_edit.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\ic_launcher_edit.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\icondelete.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\icondelete.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\icondelete.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\icondelete.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\iconedit.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\iconedit.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\iconedit.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\iconedit.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable\logoios.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-hdpi\logoios.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xhdpi\logoios.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\res\drawable-xxhdpi\logoios.png
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\R.cs.flag
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\R.txt
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\uploadflags.txt
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Microsoft.CSharp.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Mono.Android.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Mono.Security.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\mscorlib.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Core.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Data.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.IO.Compression.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Net.Http.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Numerics.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Transactions.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Web.Services.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Xml.Linq.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\System.Xml.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\ThePrayerZone.dll.mdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\DrawerMenu.dll.mdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\FormsViewGroup.dll.mdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\ThePrayerZone.dll.mdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\Xamarin.Forms.Platform.iOS.dll.mdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\Microsoft.CSharp.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\Mono.Android.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\Mono.Security.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\mscorlib.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Core.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Data.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.IO.Compression.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Net.Http.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Numerics.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Transactions.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Web.Services.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\System.Xml.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\DrawerMenu.dll.mdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\Rg.Plugins.Popup.Droid.dll.mdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\ThePrayerZone.dll.mdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\Xamarin.Forms.Platform.iOS.dll.mdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\Microsoft.CSharp.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Core.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Data.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.IO.Compression.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Numerics.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Transactions.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Web.Services.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\GCM.Client.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Rg.Plugins.Popup.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Rg.Plugins.Popup.Droid.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\bin\Debug\Rg.Plugins.Popup.Platform.dll
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\build.props
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\adb.props
+C:\Users\DELL\Downloads\DrawerMenu_03Jan2022 (1)\DrawerMenu\DrawerMenu\DrawerMenu.Droid\obj\Debug\81\DrawerMenu.Droid.csproj.AssemblyReference.cache

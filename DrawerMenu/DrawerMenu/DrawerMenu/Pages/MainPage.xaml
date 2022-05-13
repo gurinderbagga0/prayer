@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:DrawerMenu"
+             
+             x:Class="DrawerMenu.MainPage"   BackgroundImage="Cover.png" >
+
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <Style TargetType="Button">
+        <Setter Property="BackgroundColor" Value="#50B0B3"/>
+        <Setter Property="TextColor" Value="White"/>
+        <Setter Property="FontSize" Value="20"/>
+        <Setter Property="FontAttributes" Value="Bold"/>
+      </Style>
+    </ResourceDictionary>
+
+  </ContentPage.Resources>
+
+  <StackLayout Spacing="20" Margin="10, 15">
+    <StackLayout HorizontalOptions="FillAndExpand" Margin="10, 40"  Padding="30,10,30,30" >
+      <Image Source="logobig.png" />
+    </StackLayout>
+    <StackLayout VerticalOptions="CenterAndExpand">
+
+    </StackLayout>
+
+    <StackLayout Orientation="Vertical" VerticalOptions="End">
+      <!--<Button Text="Request Prayer" Clicked="OnOpenPupup"></Button>-->
+      <!--<renderer:EntryExt ReturnKeyType="Next" x:Name="txtUsername" />-->
+      <Button Text="Log In" Clicked="OnOpenPupup"></Button>
+      <Button Text="Sign Up" Clicked="OnUserAnimationPupup"></Button>
+
+
+    </StackLayout>
+  </StackLayout>
+
+</ContentPage>

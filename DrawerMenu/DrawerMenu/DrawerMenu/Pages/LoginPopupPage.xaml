@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pages:PopupPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+             xmlns:animations="clr-namespace:Rg.Plugins.Popup.Animations;assembly=Rg.Plugins.Popup"
+                xmlns:renderer="clr-namespace:DrawerMenu;assembly=DrawerMenu"
+             x:Class="DrawerMenu.LoginPopupPage">
+  <pages:PopupPage.Resources>
+    <!--<ResourceDictionary>-->
+      <!--<Style TargetType="Entry">
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="FontFamily" Value="Arial"/>
+
+        <Setter Property="HorizontalOptions" Value="Fill" />
+        <Setter Property="VerticalOptions" Value="CenterAndExpand" />
+        <Setter Property="BackgroundColor" Value="#eaeaea" />
+        <Setter Property="TextColor" Value="#8899a6" />
+      </Style>-->
+      <!--<Style x:Key="EntryStyle" TargetType="renderer">-->
+        <!--<Setter Property="PlaceholderColor" Value="#50B0B3"/>
+        <Setter Property="TextColor" Value="#50B0B3"/>-->
+
+      <!--</Style>-->
+    <!--</ResourceDictionary>-->
+  </pages:PopupPage.Resources>
+  <pages:PopupPage.Animation>
+    <animations:ScaleAnimation
+      PositionIn="Bottom"
+      PositionOut="Center"
+      ScaleIn="1"
+      ScaleOut="0.7"
+      DurationIn="700"
+      EasingIn="BounceOut"/>
+  </pages:PopupPage.Animation>
+  <ScrollView
+    HorizontalOptions="Center"
+    VerticalOptions="Center">
+    <AbsoluteLayout>
+      <Frame
+        x:Name="FrameContainer"
+        Margin="15"
+        HorizontalOptions="Center"
+        BackgroundColor="White">
+        <StackLayout
+            IsClippedToBounds="True"
+            Padding="10, 5"
+            Spacing="3">
+          <StackLayout HorizontalOptions="FillAndExpand" Padding="0,0,0,0" >
+            <Label Text="Log In to ThePrayerZone" FontFamily="Arial"  FontSize="18"  FontAttributes="Bold" TextColor="#8899a6" VerticalOptions="Center"
+               HorizontalOptions="Center"  />
+          </StackLayout>
+          <Image
+            HorizontalOptions="Center"
+            x:Name="OctocatImage"
+            Margin="10"
+            HeightRequest="140"
+            WidthRequest="140">
+            <Image.Source>
+              <OnPlatform
+                x:TypeArguments="ImageSource"
+                Android="Pop_up_logo.png"
+                iOS="Pop_up_logo.png"
+                WinPhone="Assets/Pop_up_logo.png"/>
+            </Image.Source>
+          </Image>
+      
+
+          <renderer:EntryExt ReturnKeyType="Next" BackgroundColor="#eaeaea" TextColor="#8899a6" FontSize="14" FontFamily="Arial" HorizontalOptions="Fill" VerticalOptions="CenterAndExpand" Placeholder="E-mail Address" x:Name="UsernameEntry" />
+          <renderer:EntryExt ReturnKeyType="Done" IsPassword="True"  BackgroundColor="#eaeaea" TextColor="#8899a6" FontSize="14" FontFamily="Arial" HorizontalOptions="Fill" VerticalOptions="CenterAndExpand" Placeholder="Password" x:Name="PasswordEntry" />
+          <!--<Entry x:Name="UsernameEntry"  Placeholder="E-mail Address"  />
+          <Entry x:Name="PasswordEntry" IsPassword="True"  Placeholder="Password" />-->
+
+          <StackLayout Orientation="Horizontal" VerticalOptions="Center" Padding="0,0,0,0" >
+            <Label Text="Forgot Password?" FontFamily="Arial" XAlign="Center" FontSize="14"   FontAttributes="Bold" TextColor="#8899a6" />
+            <Label Text="click here"  XAlign="Center" FontAttributes="Bold" FontSize="14"  TextColor="#50b0b3" >
+              <Label.GestureRecognizers>
+                <TapGestureRecognizer
+                      Tapped="OnTapForGotPasswordTapped"
+                        NumberOfTapsRequired="1" />
+              </Label.GestureRecognizers>
+            </Label>
+
+
+          </StackLayout>
+          <Button
+            Margin="10, 5"
+            BackgroundColor="#50B0B3" TextColor="#FFFFFF"
+            HorizontalOptions="Fill"
+            Clicked="OnLogin"
+            x:Name="LoginButton"
+            Text="Log In">
+            <Button.HeightRequest>
+              <OnPlatform x:TypeArguments="x:Double" Android="50" iOS="30" WinPhone="30"/>
+            </Button.HeightRequest>
+          </Button>
+
+          <StackLayout Orientation="Horizontal" VerticalOptions="Center" Padding="0,0,0,0" >
+            <Label Text="Don’t have an account?"  XAlign="Center" FontFamily="Arial" FontSize="14"   FontAttributes="Bold" TextColor="#8899a6" />
+            <Label Text="click here"  XAlign="Center" FontAttributes="Bold" FontSize="14"  TextColor="#50b0b3" >
+              <Label.GestureRecognizers>
+                <TapGestureRecognizer
+                      Tapped="OnTapGestureRecognizerTapped"
+                        NumberOfTapsRequired="1" />
+              </Label.GestureRecognizers>
+            </Label>
+
+
+          </StackLayout>
+        </StackLayout>
+      </Frame>
+      <ContentView
+          AbsoluteLayout.LayoutFlags="PositionProportional"
+          AbsoluteLayout.LayoutBounds="1, 0, -1, -1">
+        <ContentView.GestureRecognizers>
+          <TapGestureRecognizer Tapped="OnCloseButtonTapped"/>
+        </ContentView.GestureRecognizers>
+        <Image
+          x:Name="CloseImage"
+          HeightRequest="30"
+          WidthRequest="30">
+          <Image.Source>
+            <OnPlatform
+              x:TypeArguments="ImageSource"
+              Android="close_circle_button.png"
+              iOS="close_circle_button.png"
+              WinPhone="Assets/close_circle_button.png"/>
+          </Image.Source>
+        </Image>
+      </ContentView>
+    </AbsoluteLayout>
+  </ScrollView>
+</pages:PopupPage>

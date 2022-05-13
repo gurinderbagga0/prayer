@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="com.tpz.com" android:versionCode="6" android:versionName="1.1">
+	<uses-sdk android:minSdkVersion="16" android:targetSdkVersion="23" />
+	<!--<application android:label="DrawerMenu.Droid"></application>-->
+	<uses-permission android:name="android.permission.INTERNET" />
+	<application android:label="ThePrayerZone" android:theme="@style/MyTheme" android:icon="@drawable/icon"></application>
+	<activity android:name=".NotificationActivity">
+		<intend-filter>
+			<action android:name="com.example.Target_Notifications"></action>
+			<category android:name="android.intend.category.DEFAULT"></category>
+		</intend-filter>
+	</activity>
+</manifest>

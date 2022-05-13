@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:DrawerMenu"
+                 xmlns:renderer="clr-namespace:DrawerMenu;assembly=DrawerMenu"
+             x:Class="DrawerMenu.SearchUsersAdmin" BackgroundColor="#DCDCDC"  >
+  <ContentPage.Resources>
+    <ResourceDictionary>
+
+      <Style x:Key="orangeButton" TargetType="Button">
+        <Setter Property="BackgroundColor" Value="#082E3E"/>
+        <Setter Property="TextColor" Value="White" />
+        <Setter Property="BorderRadius" Value="0"/>
+        <Setter Property="FontSize" Value="12" />
+      </Style>
+      <Style x:Key="redButton" TargetType="Button" >
+        <Setter Property="BackgroundColor" Value="#D9534F"/>
+        <Setter Property="TextColor" Value="White" />
+        <Setter Property="BorderRadius" Value="0"/>
+        <Setter Property="FontSize" Value="10" />
+      </Style>
+    </ResourceDictionary>
+  </ContentPage.Resources>
+
+  <StackLayout Spacing="5" Padding="5,5,5,5" x:Name="layout">
+    <StackLayout  VerticalOptions="Start"
+      HorizontalOptions="FillAndExpand" >
+      <StackLayout Orientation="Horizontal" Padding="0,0,0,0" >
+                <Button x:Name="lblWaitingText" Clicked="WaitingTextClicked"  FontSize="12"  HorizontalOptions="FillAndExpand"  BackgroundColor="#73BB80"     Text=""  Style="{StaticResource orangeButton}"   VerticalOptions="Fill">
+          <Button.HeightRequest>
+            <OnPlatform x:TypeArguments="x:Double" Android="35" iOS="20" WinPhone="30"/>
+          </Button.HeightRequest>
+        </Button>
+                <Button  x:Name="lblAddPrayerReques" Clicked="AddPrayerRequestClicked" FontSize="12"  HorizontalOptions="FillAndExpand"  BackgroundColor="#73BB80"     Text="+ Add Prayer Request"  Style="{StaticResource orangeButton}"   VerticalOptions="Fill">
+          <Button.HeightRequest>
+            <OnPlatform x:TypeArguments="x:Double" Android="35" iOS="20" WinPhone="30"/>
+          </Button.HeightRequest>
+        </Button>
+     
+      </StackLayout>
+    </StackLayout>
+
+
+    <StackLayout Orientation="Vertical" Padding="2,2,2,2" Margin="2" VerticalOptions="FillAndExpand"  BackgroundColor="White"  HorizontalOptions="FillAndExpand">
+      <renderer:EntryExt ReturnKeyType="Default" TextChanged="OnSearchBarTextChanged"  Placeholder="Search for users by Name or Email" x:Name="FirstNameChampionText" />
+      <!--<Entry x:Name="FirstNameChampionText" TextChanged="OnSearchBarTextChanged"   Placeholder="Search for users by Name or Email" >
+        
+      </Entry>-->
+      <ListView x:Name="lstAllUsersAdmin"
+            ItemSelected="Handle_ItemSelected"   BackgroundColor="White"  HasUnevenRows="True" Margin="5"  ItemsSource="{Binding Items}"
+                  IsPullToRefreshEnabled="true"
+               CachingStrategy="RecycleElement"
+                  IsRefreshing="{Binding IsBusy, Mode=OneWay}"
+            RefreshCommand="{Binding RefreshDataCommand}" >
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <ViewCell >
+              <ViewCell.View>
+                <StackLayout Orientation="Vertical" Padding="3,3,3,3" Margin="5" VerticalOptions="FillAndExpand"  BackgroundColor="White"  HorizontalOptions="FillAndExpand">
+                  
+
+                  <Label Text="{Binding Name}" TextColor="#0D5EA1"  FontSize="14" XAlign="Start" VerticalOptions="Start" HorizontalOptions="Start" />
+                  <Label Text="{Binding created_at}"  FontSize="12" XAlign="Start" VerticalOptions="Start" HorizontalOptions="Start" />
+
+                </StackLayout>
+              </ViewCell.View>
+            </ViewCell>
+          </DataTemplate>
+
+
+        </ListView.ItemTemplate>
+      </ListView>
+
+
+    </StackLayout>
+
+
+
+  </StackLayout>
+
+
+</ContentPage>
